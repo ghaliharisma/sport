@@ -51,7 +51,6 @@ http://127.0.0.1:6878/ace/getstream?infohash=1f39f1fe3440ac701f1ef124bb1419fe240
 http://127.0.0.1:6878/ace/getstream?infohash=73dbee827a138989d16dd38c48dd6e5228b9bced&pid=552
 #EXTINF:-1,Dubai Sports 3 HD [ae]
 http://127.0.0.1:6878/ace/getstream?infohash=e8d2c33e9491f2fe5c50b00555f0bedcfb591ca6&pid=553
-
 #EXTINF:-1,Eleven Sports 1 [BE]
 http://127.0.0.1:6878/ace/getstream?infohash=969e14989a98c62518a7640741dbf15d90212d1a&pid=574
 #EXTINF:-1,Eleven Sports 1 4k [PL]
@@ -74,35 +73,16 @@ http://127.0.0.1:6878/ace/getstream?infohash=a2a02182ab8fec713cbaf5a45d92c5cd5a4
 http://127.0.0.1:6878/ace/getstream?infohash=2c9a996c060d157ff63109c5b999d55bbc2ffd95&pid=583
 #EXTINF:-1,Eleven Sports 6 [BE]
 http://127.0.0.1:6878/ace/getstream?infohash=471f21a1eb3453e9b70e90228f016ad1142d581d&pid=584
-#EXTINF:-1,ES: (FHD) DAZN 1
-http://127.0.0.1:6878/ace/getstream?infohash=e986d09b7a03e5fe7a7b053380bc1a398e5b2697&pid=598
-#EXTINF:-1,ES: (FHD) DAZN F1
-http://127.0.0.1:6878/ace/getstream?infohash=27cc12dda1122f532a06f009e14bb9e5f122f05d&pid=599
-#EXTINF:-1,ES: (FHD) DAZN LALIGA
-http://127.0.0.1:6878/ace/getstream?infohash=858a3c8ce1d2615ef6cd28f10045e906cc4006ac&pid=600
 #EXTINF:-1,Eurosport [PL]
 http://127.0.0.1:6878/ace/getstream?infohash=d74bdd567469ed170b670db8b8947061e964fb84&pid=722
-#EXTINF:-1,Eurosport 1 HD
-http://127.0.0.1:6878/ace/getstream?infohash=25bf6f120bfcc53128e86dd37c23f2374cb15e88&pid=723
 #EXTINF:-1,Eurosport 1 HD
 http://127.0.0.1:6878/ace/getstream?infohash=e541a954465df29ccce4d829529d983ffb2803d4&pid=724
 #EXTINF:-1,Eurosport 1 HD [DE]
 http://127.0.0.1:6878/ace/getstream?infohash=467a9ad90a4fcdcee8e072075d3a2c4748b55792&pid=725
-#EXTINF:-1,Eurosport 1 HD [RU]
-http://127.0.0.1:6878/ace/getstream?infohash=42e959bffd0dd0f138dd03abf387b4284ece7e30&pid=726
 #EXTINF:-1,Eurosport 2 HD [DE]
 http://127.0.0.1:6878/ace/getstream?infohash=9510f65da1d8a4a2b7c972fdc2f1b19e2d468f2f&pid=727
-#EXTINF:-1,Eurosport 2 HD [PL]
-http://127.0.0.1:6878/ace/getstream?infohash=a9fc65ae6e7b537f106c07471b7a66b2cbc87069&pid=728
-#EXTINF:-1,Eurosport 2 HD [RU]
-http://127.0.0.1:6878/ace/getstream?infohash=3fee4ce1dbc079ff3f302535070d9547988a407c&pid=729
 #EXTINF:-1,Fashion TV Midnite Secrets (1080p)
 http://127.0.0.1:6878/ace/getstream?infohash=1ae3ea36e18c82217294ea66a3674821b02ccb68&pid=754
-
-#EXTINF:-1,FOX HD [PL]
-http://127.0.0.1:6878/ace/getstream?infohash=9d88fca3233597b6a150199e430ec0c67bfb1a23&pid=786
-#EXTINF:-1,FOX HD [RU]
-http://127.0.0.1:6878/ace/getstream?infohash=5e40d94899925654ba5baf7f9ede7db5e0c10ad7&pid=787
 #EXTINF:-1,FOX Sports 1 HD [US]
 http://127.0.0.1:6878/ace/getstream?infohash=df23d9ca9275b354e23156d59b8bc1122441fa47&pid=792
 #EXTINF:-1,FOX Sports 2 HD [US]
@@ -186,4 +166,5 @@ http://127.0.0.1:6878/ace/getstream?infohash=1eaf31ee18844a11b2b0e4b7da97f8c87fc
 #EXTINF:-1,Premier Sports 1 [UK]
 http://127.0.0.1:6878/ace/getstream?infohash=13ddaf59c0f2d760fd3775acc254e13825206eac&pid=1367
 #EXTINF:-1,Premier Sports 2 [UK]
+
 http://127.0.0.1:6878/ace/getstream?infohash=086e4c7ccc0b80e2960a553d04dac1024c7787b9&pid=1368
