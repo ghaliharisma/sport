@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
-#EXTINF:-1,DAZN 1 [ES] 
+#EXTM3U 
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9KYWthcnRh&date=20250831&channel_id=406544",DAZN 1 [ES] 
 http://127.0.0.1:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
-#EXTINF:-1,DAZN 2 [ES]
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9KYWthcnRh&date=20250831&channel_id=412947",DAZN 2 [ES]
 http://127.0.0.1:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467b0224c63a6&pid=511
 #EXTINF:-1,DAZN 3 [ES]
 http://127.0.0.1:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d0459b594&pid=512
@@ -91,6 +91,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=91b2c91a540151c5cdd5c5296a5737d9c61
 http://127.0.0.1:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75ecb06&pid=550
 #EXTINF:-1,Dubai Sports 3
 http://127.0.0.1:6878/ace/getstream?infohash=1f39f1fe3440ac701f1ef124bb1419fe240d2c24&pid=551
+
 
 
 
