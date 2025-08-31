@@ -19,12 +19,6 @@ http://127.0.0.1:6878/ace/getstream?infohash=7fee896143ae89590d97793a0be7ad8ec6f
 http://127.0.0.1:6878/ace/getstream?infohash=26c1fe91207fb2a1cfa6271970081d4c2009b6fa&pid=309
 #EXTINF:-1,beIN SPORTS XTRA
 http://127.0.0.1:6878/ace/getstream?infohash=ac033bf7bf6eb4efa5ca3f8070742093eab47685&pid=310
-#EXTINF:-1,DAZN 1 Bar HD [DE]
-http://127.0.0.1:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4&pid=507
-#EXTINF:-1,DAZN 2 Bar HD [DE]
-http://127.0.0.1:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6&pid=508
-#EXTINF:-1,DAZN F1 HD
-http://127.0.0.1:6878/ace/getstream?infohash=6d325cda6ed591647ef5e91edd043147bce8be30&pid=509
 #EXTINF:-1,DAZN1
 http://127.0.0.1:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0&pid=510
 #EXTINF:-1,DAZN2
@@ -33,12 +27,6 @@ http://127.0.0.1:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467b0224
 http://127.0.0.1:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d0459b594&pid=512
 #EXTINF:-1,DAZN4
 http://127.0.0.1:6878/ace/getstream?infohash=c21a2524a8de3e1e5b126f2677a3e993d9aa07c4&pid=513
-#EXTINF:-1,Diema Sport 1 HD
-http://127.0.0.1:6878/ace/getstream?infohash=918ca3eed04400df0038d3d4c48cf2b86311f65d&pid=521
-#EXTINF:-1,Diema Sport 2 HD
-http://127.0.0.1:6878/ace/getstream?infohash=f9dcf901796171323556e62f0db818a2ae1b6802&pid=522
-#EXTINF:-1,Diema Sport 3 HD
-http://127.0.0.1:6878/ace/getstream?infohash=2389485a7735947310293557725d0b2b707a9869&pid=523
 #EXTINF:-1,Dubai Sports 2
 http://127.0.0.1:6878/ace/getstream?infohash=7f5dc2a858b5972598f10c843b28c73597801a96&pid=548
 #EXTINF:-1,Dubai Sports 2 HD
@@ -51,21 +39,21 @@ http://127.0.0.1:6878/ace/getstream?infohash=1f39f1fe3440ac701f1ef124bb1419fe240
 http://127.0.0.1:6878/ace/getstream?infohash=73dbee827a138989d16dd38c48dd6e5228b9bced&pid=552
 #EXTINF:-1,Dubai Sports 3 HD [ae]
 http://127.0.0.1:6878/ace/getstream?infohash=e8d2c33e9491f2fe5c50b00555f0bedcfb591ca6&pid=553
-#EXTINF:-1,Eleven Sports 1 [BE]
+#EXTINF:-1,DAZN 1
 http://127.0.0.1:6878/ace/getstream?infohash=969e14989a98c62518a7640741dbf15d90212d1a&pid=574
 #EXTINF:-1,Eleven Sports 1 4k [PL]
 http://127.0.0.1:6878/ace/getstream?infohash=f25b57322b5337df43bfde801e03f70363737581&pid=575
 #EXTINF:-1,Eleven Sports 1 HD [PL]
 http://127.0.0.1:6878/ace/getstream?infohash=73d24aeff6515abb236ea8a3e77d89fe0b04b665&pid=576
-#EXTINF:-1,Eleven Sports 2 [BE]
+#EXTINF:-1,DAZN 2
 http://127.0.0.1:6878/ace/getstream?infohash=27573fb01690fd55b25c07ae2180ee44b1ad8a7c&pid=577
 #EXTINF:-1,Eleven Sports 2 HD [PL]
 http://127.0.0.1:6878/ace/getstream?infohash=ae964a3fb5009d462ceb6e60dd56b3cfa8159620&pid=578
-#EXTINF:-1,Eleven Sports 3 [BE]
+#EXTINF:-1,DAZN 3
 http://127.0.0.1:6878/ace/getstream?infohash=33246d7ad41db9ad7654f0d553b5e7500363d1b8&pid=579
 #EXTINF:-1,Eleven Sports 3 HD [PL]
 http://127.0.0.1:6878/ace/getstream?infohash=95bf662561dba1859c9e4763f4ae7d9d1918fb0d&pid=580
-#EXTINF:-1,Eleven Sports 4 [BE]
+#EXTINF:-1,DAZN 4
 http://127.0.0.1:6878/ace/getstream?infohash=3c0cfbeb4075be58baa32e41dabee3c75b8a80e6&pid=581
 #EXTINF:-1,Eleven Sports 4 HD [PL]
 http://127.0.0.1:6878/ace/getstream?infohash=a2a02182ab8fec713cbaf5a45d92c5cd5a499c42&pid=582
@@ -135,36 +123,9 @@ http://127.0.0.1:6878/ace/getstream?infohash=54de746f7823812312b4000422618465f7d
 http://127.0.0.1:6878/ace/getstream?infohash=78266c15035d0ad8cbc58f821733931e1de434ab&pid=1616
 #EXTINF:-1,SkySP PL [UK]
 http://127.0.0.1:6878/ace/getstream?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f&pid=1618
-#EXTINF:-1,Sport 1 Baltic
-http://127.0.0.1:6878/ace/getstream?infohash=8f9616a0b705255225380139bd7990a0ceb2d346&pid=1631
-#EXTINF:-1,Sport 1 HD IL
-http://127.0.0.1:6878/ace/getstream?infohash=b93c88c4904901b1d2bd0d5404fb05157a5128ce&pid=1632
-#EXTINF:-1,Sport 2 Baltic
-http://127.0.0.1:6878/ace/getstream?infohash=d232e98005d6ab0284ec8e0af8ad6d6d0417b3be&pid=1633
-#EXTINF:-1,Sport 3 IL
-http://127.0.0.1:6878/ace/getstream?infohash=222f6e68592531377b846b80cbef56767d7d782c&pid=1634
-#EXTINF:-1,Sport 4 HD IL
-http://127.0.0.1:6878/ace/getstream?infohash=1d38d24dedd1cc44018bcb599310145077039f26&pid=1635
-#EXTINF:-1,Sport 5 Gold IL
-http://127.0.0.1:6878/ace/getstream?infohash=c577da96511e3d518d073394ab035f1fe95d489c&pid=1636
-#EXTINF:-1,Sport 5 HD IL
-http://127.0.0.1:6878/ace/getstream?infohash=e2609484dbd4f5e92908200af9f386ed888b29d3&pid=1637
-#EXTINF:-1,Sport 5 Live IL
-http://127.0.0.1:6878/ace/getstream?infohash=4527c38ba130732228649b78ab00acbab4f7bd3b&pid=1638
-#EXTINF:-1,Sport Digital [DE]
-http://127.0.0.1:6878/ace/getstream?infohash=e8b528ebd16f41d89382b59c6fdd4ed67e0a6dc0&pid=1639
-#EXTINF:-1,Sport Klub [PL]
-http://127.0.0.1:6878/ace/getstream?infohash=14594b3c9520715e48756cb7258e102c5e48c29c&pid=1640
-#EXTINF:-1,SPORT1 [DE]
-http://127.0.0.1:6878/ace/getstream?infohash=b0eea8203c3c22437a115058fbbdcba884a0d21d&pid=1641
-#EXTINF:-1,SPORT1+ [DE]
-http://127.0.0.1:6878/ace/getstream?infohash=ff6a3378d51f3b4d92b8444d72576a6df97dbdc4&pid=1642
-#EXTINF:-1,SPORTDIGITAL FUSSBALL (DE)
-http://127.0.0.1:6878/ace/getstream?infohash=1deac6b9e7fb9ef860d4360ccc99f5a09d35c719&pid=1643
-#EXTINF:-1,Sports Grid
-http://127.0.0.1:6878/ace/getstream?infohash=1eaf31ee18844a11b2b0e4b7da97f8c87fc83a29&pid=1644
 #EXTINF:-1,Premier Sports 1 [UK]
 http://127.0.0.1:6878/ace/getstream?infohash=13ddaf59c0f2d760fd3775acc254e13825206eac&pid=1367
 #EXTINF:-1,Premier Sports 2 [UK]
-
 http://127.0.0.1:6878/ace/getstream?infohash=086e4c7ccc0b80e2960a553d04dac1024c7787b9&pid=1368
+#EXTINF:-1,Sky Sports F1
+http://127.0.0.1:6878/ace/getstream?infohash=c50648c4102b842b913b2e7b3b8d435c6996d2ce
