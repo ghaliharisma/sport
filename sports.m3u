@@ -12,7 +12,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=26c1fe91207fb2a1cfa6271970081d4c200
 #EXTINF:-1,beIN SPORTS XTRA
 http://127.0.0.1:6878/ace/getstream?infohash=ac033bf7bf6eb4efa5ca3f8070742093eab47685&pid=310
 #EXTINF:-1,DAZN1
-http://127.0.0.1:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0&pid=510
+http://127.0.0.1:6878/content/0560234787945a17522e284c4c22bb4df29f33b0/0.020483683149491783
 #EXTINF:-1,DAZN2
 http://127.0.0.1:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467b0224c63a6&pid=511
 #EXTINF:-1,DAZN3
@@ -97,3 +97,4 @@ http://127.0.0.1:6878/ace/getstream?infohash=d18e752ade97d8be74a99887fec55047233
 http://127.0.0.1:6878/ace/getstream?infohash=0dca83a7cc9184893ff96ee2355874342fc8fd45&pid=709
 #EXTINF:-1,ESPN2 [US]
 http://127.0.0.1:6878/ace/getstream?infohash=437692bc0dedcf1c27c2ab2c1c7e58b0806244fe&pid=710
+
