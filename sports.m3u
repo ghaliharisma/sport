@@ -128,4 +128,5 @@ http://127.0.0.1:6878/ace/getstream?infohash=13ddaf59c0f2d760fd3775acc254e138252
 #EXTINF:-1,Premier Sports 2 [UK]
 http://127.0.0.1:6878/ace/getstream?infohash=086e4c7ccc0b80e2960a553d04dac1024c7787b9&pid=1368
 #EXTINF:-1,Sky Sports F1
-http://127.0.0.1:6878/ace/getstream?infohash=c50648c4102b842b913b2e7b3b8d435c6996d2ce
+http://127.0.0.1:6878/ace/getstream?infohash=c50648c4102b842b913b2e7b3b8d435c6996d2ce&pid=1369
+
