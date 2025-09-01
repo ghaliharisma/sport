@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/
+#EXTINF:-1,Sky Sports Samsung
+http://192.168.100.8:6878/ace/getstream?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f&pid=1618
 #EXTINF:-1,DAZN 1 [ES] 
 http://127.0.0.1:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
 #EXTINF:-1,DAZN 2 [ES]
@@ -92,4 +94,5 @@ http://127.0.0.1:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75
 #EXTINF:-1,Dubai Sports 3
 
 http://127.0.0.1:6878/ace/getstream?infohash=1f39f1fe3440ac701f1ef124bb1419fe240d2c24&pid=551
+
 
