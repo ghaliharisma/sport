@@ -65,25 +65,25 @@ http://192.168.100.8:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034
 http://192.168.100.8:6878/ace/getstream?infohash=071b49a1c52d304cae6300e2776022eec7ebe6cd
 #EXTINF:-1 tvg-id="452454" tvg-logo="https://epg.pw/media/images/epg/2025/08/23/20250823023228367786_58.png" tvg-name"",beIN SPORTS HD 2 [TR]
 http://192.168.100.8:6878/ace/getstream?infohash=36e9427b55dd3574f9f40eab30aef8e0f34f477e
-#EXTINF:-1 tvg-id="452455" tvg-logo"https://epg.pw/media/images/epg/2025/08/23/20250823023231338630_81.png",beIN SPORTS HD 3 [TR]
+#EXTINF:-1 tvg-id="452455" tvg-logo="https://epg.pw/media/images/epg/2025/08/23/20250823023231338630_81.png",beIN SPORTS HD 3 [TR]
 http://192.168.100.8:6878/ace/getstream?infohash=7fee896143ae89590d97793a0be7ad8ec6fa4552
-#EXTINF:-1 tvg-id="452448" tvg-logo"https://epg.pw/media/images/epg/2025/08/23/20250823022031672108_75.png",beIN SPORTS HD 4 [TR]
+#EXTINF:-1 tvg-id="452448" tvg-logo="https://epg.pw/media/images/epg/2025/08/23/20250823022031672108_75.png",beIN SPORTS HD 4 [TR]
 http://192.168.100.8:6878/ace/getstream?infohash=26c1fe91207fb2a1cfa6271970081d4c2009b6fa
-#EXTINF:-1 tvg-id="413152" tvg-logo"https://epg.pw/media/images/epg/2025/02/23/20250223020606068934_27.png",beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="413152" tvg-logo="https://epg.pw/media/images/epg/2025/02/23/20250223020606068934_27.png",beIN SPORTS XTRA
 http://192.168.100.8:6878/ace/getstream?infohash=ac033bf7bf6eb4efa5ca3f8070742093eab47685
-#EXTINF:-1 tvg-id="400477" tvg-logo"https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-us-uk.svg",TNT Sports 1 [UK]
+#EXTINF:-1 tvg-id="400477" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-us-uk.svg",TNT Sports 1 [UK]
 http://192.168.100.8:6878/ace/getstream?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
-#EXTINF:-1 tvg-id="400480" tvg-logo"https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk-us-uk.svg",TNT Sports 2 [UK]
+#EXTINF:-1 tvg-id="400480" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk-us-uk.svg",TNT Sports 2 [UK]
 http://192.168.100.8:6878/ace/getstream?infohash=01dcc1ea3387c2b73953efe3f52286a770737d7c
-#EXTINF:-1 tvg-id="400479" tvg-logo"https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk-us-uk.svg",TNT Sports 3 [UK]
+#EXTINF:-1 tvg-id="400479" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk-us-uk.svg",TNT Sports 3 [UK]
 http://192.168.100.8:6878/ace/getstream?infohash=d57ebd44296b0c92c0661cc964e737a54b852cec
-#EXTINF:-1 tvg-id="400478" tvg-logo"https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-us-uk.svg",TNT Sports 4 [UK]
+#EXTINF:-1 tvg-id="400478" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-us-uk.svg",TNT Sports 4 [UK]
 http://192.168.100.8:6878/ace/getstream?infohash=2605c201c8c9cf6684ee1de562d3b4c7e17ac915
 #EXTINF:-1 tvg-id="407519" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223021555494281_27.png" tvg-name"",RealMadrid TV
 http://192.168.100.8:6878/ace/getstream?infohash=4e47587f3cf57196825a5e9144873917309e6393
-#EXTINF:-1 tvg-id="" tvg-logo="406806" tvg-name"https://epg.pw/media/images/epg/2024/12/16/20241216020701165226_58.png",Ziggo Sport
+#EXTINF:-1 tvg-id="406806" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216020701165226_58.png",Ziggo Sport
 http://192.168.100.8:6878/ace/getstream?infohash=8e475c8b9f12270c524f88f5659cc6811fc1399c
-#EXTINF:-1 tvg-id="" tvg-logo="406813" tvg-name"https://epg.pw/media/images/epg/2024/12/16/20241216021526719246_23.png",Ziggo Sport 2
+#EXTINF:-1 tvg-id="406813" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021526719246_23.png",Ziggo Sport 2
 http://192.168.100.8:6878/ace/getstream?infohash=fca28f51d5500d131770230b033c5da2b36ebf9c
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",Eleven Sports 1 HD [PL]
 http://192.168.100.8:6878/ace/getstream?infohash=73d24aeff6515abb236ea8a3e77d89fe0b04b665
@@ -101,5 +101,6 @@ http://192.168.100.8:6878/ace/getstream?infohash=471f21a1eb3453e9b70e90228f016ad
 http://192.168.100.8:6878/ace/getstream?infohash=7f5dc2a858b5972598f10c843b28c73597801a96
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",Dubai Sports 3
 http://192.168.100.8:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75ecb06
+
 
 
