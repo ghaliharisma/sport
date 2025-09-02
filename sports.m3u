@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml.gz"
+#EXTINF:-1 tvg-id="451928" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021430919637_94.png" tvg-name="DAZN 1 [ES]",DAZN 1 [DE] 
+http://192.168.100.8:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
+#EXTINF:-1 tvg-id="451927" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021935231312_54.png" tvg-name="DAZN 2 [ES]",DAZN 2 [DE]
+http://192.168.100.8:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
 #EXTINF:-1 tvg-id="406544" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021430919637_94.png" tvg-name="DAZN 1 [ES]",DAZN 1 [ES] 
 http://192.168.100.8:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
 #EXTINF:-1 tvg-id="406571" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021935231312_54.png" tvg-name="DAZN 2 [ES]",DAZN 2 [ES]
@@ -101,6 +105,7 @@ http://192.168.100.8:6878/ace/getstream?infohash=471f21a1eb3453e9b70e90228f016ad
 http://192.168.100.8:6878/ace/getstream?infohash=7f5dc2a858b5972598f10c843b28c73597801a96
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",Dubai Sports 3
 http://192.168.100.8:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75ecb06
+
 
 
 
