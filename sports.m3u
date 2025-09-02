@@ -75,9 +75,9 @@ http://192.168.100.8:6878/ace/getstream?infohash=ac033bf7bf6eb4efa5ca3f807074209
 http://192.168.100.8:6878/ace/getstream?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
 #EXTINF:-1 tvg-id="400480" tvg-logo"https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk-us-uk.svg",TNT Sports 2 [UK]
 http://192.168.100.8:6878/ace/getstream?infohash=01dcc1ea3387c2b73953efe3f52286a770737d7c
-#EXTINF:-1 tvg-ido="400479" tvg-logo"https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk-us-uk.svg",TNT Sports 3 [UK]
+#EXTINF:-1 tvg-id="400479" tvg-logo"https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk-us-uk.svg",TNT Sports 3 [UK]
 http://192.168.100.8:6878/ace/getstream?infohash=d57ebd44296b0c92c0661cc964e737a54b852cec
-#EXTINF:-1 tvg-ido="400478" tvg-logo"https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-us-uk.svg",TNT Sports 4 [UK]
+#EXTINF:-1 tvg-id="400478" tvg-logo"https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-us-uk.svg",TNT Sports 4 [UK]
 http://192.168.100.8:6878/ace/getstream?infohash=2605c201c8c9cf6684ee1de562d3b4c7e17ac915
 #EXTINF:-1 tvg-id="407519" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223021555494281_27.png" tvg-name"",RealMadrid TV
 http://192.168.100.8:6878/ace/getstream?infohash=4e47587f3cf57196825a5e9144873917309e6393
@@ -101,4 +101,5 @@ http://192.168.100.8:6878/ace/getstream?infohash=471f21a1eb3453e9b70e90228f016ad
 http://192.168.100.8:6878/ace/getstream?infohash=7f5dc2a858b5972598f10c843b28c73597801a96
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",Dubai Sports 3
 http://192.168.100.8:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75ecb06
+
 
