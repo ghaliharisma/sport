@@ -103,20 +103,43 @@ http://192.168.100.8:6878/ace/getstream?infohash=e10a61b33dc7ac7804cb2b937951265
 http://192.168.100.8:6878/ace/getstream?infohash=58b193890946b099a7d2c7dca37a48b36a12467f&pid=1337
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032240026618_13.png" tvg-name"Polsat Sport Premium 2 [PL]",Polsat Sport Premium 2 [PL]
 http://192.168.100.8:6878/ace/getstream?infohash=70ba32a661dc71ac3008f2bcb8aa202c5514f4e3&pid=1338
-#EXTINF:-1,Матч! Футбол 1 ( original ) [RU]
+#EXTINF:-1 tvg-id="6003" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608021928330931_90.png" tvg-name"Polsat Sport [PL]",Polsat Sport [PL]
+http://192.168.100.8:6878/ace/getstream?infohash=5fc250f907b3bce0eda3caeb5cf86888e600b262&pid=1334
+#EXTINF:-1 tvg-id="7835" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608040248925277_22.png" tvg-name"Polsat Sport Extra [PL]",Polsat Sport Extra [PL]
+http://192.168.100.8:6878/ace/getstream?infohash=f0beebc90853dc8342691a85539b5efbe0e94c1e&pid=1335
+#EXTINF:-1 tvg-id="6152" tvg-logo="https://static.epg.best/ru/MatchFutbol1.ru.png" tvg-name"Матч! Футбол 1[RU]",Матч! Футбол 1[RU]
 http://192.168.100.8:6878/ace/getstream?infohash=0bb7252a2a8dd3704b3a6c0538478450b8987012&pid=2266
-#EXTINF:-1,Матч! Футбол 2 ( original ) [RU]
+#EXTINF:-1 tvg-id="6150" tvg-logo="https://static.epg.best/ru/MatchFutbol2.ru.png" tvg-name"Матч! Футбол 2[RU",Матч! Футбол 2[RU]
 http://192.168.100.8:6878/ace/getstream?infohash=fc5e35ba19a015dc14fa4060fb922f7cbc026f96&pid=2267
-#EXTINF:-1,Матч! футбол 2 HD
-http://192.168.100.8:6878/ace/getstream?infohash=46a73dbc435c9178367a474d33aae1817dfdb516&pid=2268
-#EXTINF:-1,Матч! Футбол 3 ( original ) [RU]
+#EXTINF:-1 tvg-id="6151.ru" tvg-logo="https://static.epg.best/ru/MatchFutbol3.ru.png" tvg-name"Матч! Футбол 3[RU]",Матч! Футбол 3[RU]
 http://192.168.100.8:6878/ace/getstream?infohash=7f6ceda82b964c416983ab233787cee4e2333435&pid=2269
+#EXTINF:-1 tvg-id="5778" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608020619329228_10.png" tvg-name"TVP Sport HD [PL]",TVP Sport HD [PL]
+http://192.168.100.8:6878/ace/getstream?infohash=8356abd054c23015cfc1b1f187f8a7e30940b3f5&pid=1846
+#EXTINF:-1 tvg-id="406568" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021844540554_56.png" tvg-name"M. Liga de Campeones",M. Liga de Campeones
+http://192.168.100.8:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373&pid=1058
+#EXTINF:-1 tvg-id="406568" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021844540554_56.png" tvg-name"M. Liga de Campeones",M. Liga de Campeones
+http://192.168.100.8:6878/ace/getstream?infohash=dfa66881b9613a77bd5479f6eedc5542504c3ef7&pid=1059
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
+http://192.168.100.8:6878/ace/getstream?infohash=17610faea647e0e4c27f939a9d123460511e338f&pid=1287
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
+http://192.168.100.8:6878/ace/getstream?infohash=17d3985309af4a6b9ecbf0f81052175636164787&pid=1288
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
+http://192.168.100.8:6878/ace/getstream?infohash=22afa19a32d33b5c7e4636e620b7d0097932cadd&pid=1289
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
+http://192.168.100.8:6878/ace/getstream?infohash=3dc8985572adfb56dd68359dbfe5bb56c511212b&pid=1290
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
+http://192.168.100.8:6878/ace/getstream?infohash=cb4f11e009bdc7acdbc89ba2a7c570217e793e2c&pid=1291
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
+http://192.168.100.8:6878/ace/getstream?infohash=d8957a192294d039102c398609024a7d94f18be2&pid=1292
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",Dubai Sports 2
 http://192.168.100.8:6878/ace/getstream?infohash=7f5dc2a858b5972598f10c843b28c73597801a96
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",Dubai Sports 3
 http://192.168.100.8:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75ecb06
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/07/13/20240713021507338506_53.png" tvg-name"Fashion TV Midnite Secrets",Fashion TV Midnite Secrets
 http://192.168.100.8:6878/ace/getstream?infohash=1ae3ea36e18c82217294ea66a3674821b02ccb68
+
 
 
 
