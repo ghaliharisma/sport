@@ -1,144 +1,145 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml.gz"
 #EXTINF:-1 tvg-id="247795" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608034734563662_89.png",Setanta Live 1 [RU]
-http://192.168.100.8:6878/ace/getstream?infohash=626c5326f29984bbedceee04c9694a0447ba0a9a
+http://192.168.100.23:6878/ace/getstream?infohash=626c5326f29984bbedceee04c9694a0447ba0a9a
 #EXTINF:-1 tvg-id="417351" tvg-logo="https://epg.pw/media/images/epg/2025/01/29/20250129020728780368_77.png",Setanta Live 2 [RU]
-http://192.168.100.8:6878/ace/getstream?infohash=fded295edff9d57adb77cf02a08c5f2fcb9e608b
+http://192.168.100.23:6878/ace/getstream?infohash=fded295edff9d57adb77cf02a08c5f2fcb9e608b
 #EXTINF:-1 tvg-id="451928" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021430919637_94.png" tvg-name="DAZN 1 [ES]",DAZN 1 [DE] 
-http://192.168.100.8:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
+http://192.168.100.23:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
 #EXTINF:-1 tvg-id="451927" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021935231312_54.png" tvg-name="DAZN 2 [ES]",DAZN 2 [DE]
-http://192.168.100.8:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
+http://192.168.100.23:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
 #EXTINF:-1 tvg-id="406544" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021430919637_94.png" tvg-name="DAZN 1 [ES]",DAZN 1 [ES] 
-http://192.168.100.8:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
+http://192.168.100.23:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
 #EXTINF:-1 tvg-id="406571" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021935231312_54.png" tvg-name="DAZN 2 [ES]",DAZN 2 [ES]
-http://192.168.100.8:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467b0224c63a6
+http://192.168.100.23:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467b0224c63a6
 #EXTINF:-1 tvg-id="406544" tvg-logo="https://epg.pw/media/images/epg/2025/01/23/20250123022943252495_91.png" tvg-name="DAZN 3 [ES]",DAZN 3 [ES]
-http://192.168.100.8:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d0459b594
+http://192.168.100.23:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d0459b594
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/01/23/20250123023306247644_16.png" tvg-name"DAZN 4 [ES]",DAZN 4 [ES]
-http://192.168.100.8:6878/ace/getstream?infohash=c21a2524a8de3e1e5b126f2677a3e993d9aa07c4
+http://192.168.100.23:6878/ace/getstream?infohash=c21a2524a8de3e1e5b126f2677a3e993d9aa07c4
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021430919637_94.png" tvg-name"DAZN 1 [PT]",DAZN 1 [PT]
-http://192.168.100.8:6878/ace/getstream?infohash=969e14989a98c62518a7640741dbf15d90212d1a
+http://192.168.100.23:6878/ace/getstream?infohash=969e14989a98c62518a7640741dbf15d90212d1a
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021935231312_54.png" tvg-name"DAZN 2 [PT]",DAZN 2 [PT]
-http://192.168.100.8:6878/ace/getstream?infohash=27573fb01690fd55b25c07ae2180ee44b1ad8a7c
+http://192.168.100.23:6878/ace/getstream?infohash=27573fb01690fd55b25c07ae2180ee44b1ad8a7c
 #EXTINF:-1 tvg-id="409595" tvg-logo="https://epg.pw/media/images/epg/2025/01/23/20250123022943252495_91.png" tvg-name"DAZN 3 [PT]",DAZN 3 [PT]
-http://192.168.100.8:6878/ace/getstream?infohash=33246d7ad41db9ad7654f0d553b5e7500363d1b8
+http://192.168.100.23:6878/ace/getstream?infohash=33246d7ad41db9ad7654f0d553b5e7500363d1b8
 #EXTINF:-1 tvg-id="409596" tvg-logo="https://epg.pw/media/images/epg/2025/01/23/20250123023306247644_16.png" tvg-name"DAZN 4 [PT]",DAZN 4 [PT]
-http://192.168.100.8:6878/ace/getstream?infohash=3c0cfbeb4075be58baa32e41dabee3c75b8a80e6
+http://192.168.100.23:6878/ace/getstream?infohash=3c0cfbeb4075be58baa32e41dabee3c75b8a80e6
 #EXTINF:-1 tvg-id="410323" tvg-logo="https://epg.pw/media/images/epg/2025/01/29/20250129021156095171_58.png" tvg-name"DAZN 5 [PT]",DAZN 5 [PT]
-http://192.168.100.8:6878/ace/getstream?infohash=2c9a996c060d157ff63109c5b999d55bbc2ffd95
+http://192.168.100.23:6878/ace/getstream?infohash=2c9a996c060d157ff63109c5b999d55bbc2ffd95
 #EXTINF:-1 tvg-id="406540" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021157328772_64.png" tvg-name"DAZN F1",DAZN F1 [DE]
-http://192.168.100.8:6878/ace/getstream?infohash=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+http://192.168.100.23:6878/ace/getstream?infohash=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="427687" tvg-logo="https://epg.pw/media/images/epg/2025/04/23/20250423022705987455_16.png" tvg-name"Sky Sports F1 [DE]",Sky Sports F1 [DE]
-http://192.168.100.8:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2
+http://192.168.100.23:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2
 #EXTINF:-1 tvg-id="12190" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223021009094921_46.png" tvg-name"Sky Sports F1 [UK]",Sky Sports F1 [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=b62469294eacd66de15757d2d30c76f1dc971328
+http://192.168.100.23:6878/ace/getstream?infohash=b62469294eacd66de15757d2d30c76f1dc971328
 #EXTINF:-1 tvg-id="12358" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223021604928490_67.png" tvg-name"Sky Sports Arena [UK]",Sky Sports Arena [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=37796ca47026bc190c7dc26827c0dfb6b61d137b
+http://192.168.100.23:6878/ace/getstream?infohash=37796ca47026bc190c7dc26827c0dfb6b61d137b
 #EXTINF:-1 tvg-id="9293" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608023337631688_49.png" tvg-name"Sky Sports Cricket [UK]",Sky Sports Cricket [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=610eefafd6602c094e8e89c249a11d635cb6fe29
+http://192.168.100.23:6878/ace/getstream?infohash=610eefafd6602c094e8e89c249a11d635cb6fe29
 #EXTINF:-1 tvg-id="5791" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608020657818530_33.png" tvg-name"Sky Sports Football [UK]",Sky Sports Football [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=54de746f7823812312b4000422618465f7d58f87
+http://192.168.100.23:6878/ace/getstream?infohash=54de746f7823812312b4000422618465f7d58f87
 #EXTINF:-1 tvg-id="7673" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608035329906090_87.png" tvg-name"Sky Sports Main Event [UK]",Sky Sports Main Event [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=78266c15035d0ad8cbc58f821733931e1de434ab
+http://192.168.100.23:6878/ace/getstream?infohash=78266c15035d0ad8cbc58f821733931e1de434ab
 #EXTINF:-1 tvg-id="6958" tvg-logo="https://epg.pw/media/images/epg/2025/04/23/20250423021836465800_82.png" tvg-name"Sky Sports Premier League [UK]",Sky Sports Premier League [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f
+http://192.168.100.23:6878/ace/getstream?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f
 #EXTINF:-1 tvg-id="6085" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608022438488106_72.png" tvg-name"Eurosport 1 HD",Eurosport 1 HD
-http://192.168.100.8:6878/ace/getstream?infohash=467a9ad90a4fcdcee8e072075d3a2c4748b55792
+http://192.168.100.23:6878/ace/getstream?infohash=467a9ad90a4fcdcee8e072075d3a2c4748b55792
 #EXTINF:-1 tvg-id="44879" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608021504343347_50.png" tvg-name"Eurosport 2 HD [DE",Eurosport 2 HD [DE]
-http://192.168.100.8:6878/ace/getstream?infohash=9510f65da1d8a4a2b7c972fdc2f1b19e2d468f2f
+http://192.168.100.23:6878/ace/getstream?infohash=9510f65da1d8a4a2b7c972fdc2f1b19e2d468f2f
 #EXTINF:-1 tvg-id="403908" tvg-logo="https://epg.pw/media/images/epg/2025/05/17/20250517022202197468_75.png" tvg-name"FOX Sports 1 HD [US]",FOX Sports 1 HD [US]
-http://192.168.100.8:6878/ace/getstream?infohash=df23d9ca9275b354e23156d59b8bc1122441fa47
+http://192.168.100.23:6878/ace/getstream?infohash=df23d9ca9275b354e23156d59b8bc1122441fa47
 #EXTINF:-1 tvg-id="403457" tvg-logo="https://epg.pw/media/images/epg/2025/05/17/20250517021747618547_31.png" tvg-name"FOX Sports 2 HD [US]",FOX Sports 2 HD [US]
-http://192.168.100.8:6878/ace/getstream?infohash=e765303108614af0f9a42da7b45a147195982796
+http://192.168.100.23:6878/ace/getstream?infohash=e765303108614af0f9a42da7b45a147195982796
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/red-bull-tv-logo.png" tvg-name"Red Bull TV",Red Bull TV
-http://192.168.100.8:6878/ace/getstream?infohash=2c4cc43211c6de21ac7bd5fc4dc8cdfc991246ee
+http://192.168.100.23:6878/ace/getstream?infohash=2c4cc43211c6de21ac7bd5fc4dc8cdfc991246ee
 #EXTINF:-1 tvg-id="408613" tvg-logo="https://epg.pw/media/images/epg/2025/02/14/20250214020739986975_47.png" tvg-name"Premier Sports 1 [UK]",Premier Sports 1 [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=13ddaf59c0f2d760fd3775acc254e13825206eac
+http://192.168.100.23:6878/ace/getstream?infohash=13ddaf59c0f2d760fd3775acc254e13825206eac
 #EXTINF:-1 tvg-id="408658" tvg-logo="https://epg.pw/media/images/epg/2025/02/14/20250214023025369820_39.png" tvg-name"Premier Sports 2 [UK]",Premier Sports 2 [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=086e4c7ccc0b80e2960a553d04dac1024c7787b9
+http://192.168.100.23:6878/ace/getstream?infohash=086e4c7ccc0b80e2960a553d04dac1024c7787b9
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021326331687_90.png" tvg-name"ESPN [BE]",ESPN [BE]
-http://192.168.100.8:6878/ace/getstream?infohash=dda76be0877ee2b4e5619a88f878ca47978cc09d
+http://192.168.100.23:6878/ace/getstream?infohash=dda76be0877ee2b4e5619a88f878ca47978cc09d
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216020614100127_59.png" tvg-name"ESPN 2 [BE]",ESPN 2 [BE]
-http://192.168.100.8:6878/ace/getstream?infohash=1114c803ee0f7dd7b5af5be42e49b5cdc64db2b5
+http://192.168.100.23:6878/ace/getstream?infohash=1114c803ee0f7dd7b5af5be42e49b5cdc64db2b5
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216020620372024_61.png" tvg-name"ESPN 3 [BE]",ESPN 3 [BE]
-http://192.168.100.8:6878/ace/getstream?infohash=7ae7a8ae390bbc5bdad5383aa10ebb201b0141dc
+http://192.168.100.23:6878/ace/getstream?infohash=7ae7a8ae390bbc5bdad5383aa10ebb201b0141dc
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216022226023845_97.png" tvg-name"ESPN 4 [BE]",ESPN 4 [BE]
-http://192.168.100.8:6878/ace/getstream?infohash=d18e752ade97d8be74a99887fec550472335b99f
+http://192.168.100.23:6878/ace/getstream?infohash=d18e752ade97d8be74a99887fec550472335b99f
 #EXTINF:-1 tvg-id="408636" tvg-logo="https://epg.pw/media/images/epg/2025/01/27/20250127022013891868_22.png" tvg-name"ESPN [US]",ESPN HD [US]
-http://192.168.100.8:6878/ace/getstream?infohash=0dca83a7cc9184893ff96ee2355874342fc8fd45
+http://192.168.100.23:6878/ace/getstream?infohash=0dca83a7cc9184893ff96ee2355874342fc8fd45
 #EXTINF:-1 tvg-id="408631" tvg-logo="https://epg.pw/media/images/epg/2025/01/28/20250128022507186084_37.png" tvg-name"ESPN 2 [US]",ESPN2 [US]
-http://192.168.100.8:6878/ace/getstream?infohash=437692bc0dedcf1c27c2ab2c1c7e58b0806244fe
+http://192.168.100.23:6878/ace/getstream?infohash=437692bc0dedcf1c27c2ab2c1c7e58b0806244fe
 #EXTINF:-1 tvg-id="452452" tvg-logo="https://epg.pw/media/images/epg/2025/08/23/20250823023102001324_40.png" tvg-name"beIN SPORTS HD 1 [TR]",beIN SPORTS HD 1 [TR]
-http://192.168.100.8:6878/ace/getstream?infohash=071b49a1c52d304cae6300e2776022eec7ebe6cd
+http://192.168.100.23:6878/ace/getstream?infohash=071b49a1c52d304cae6300e2776022eec7ebe6cd
 #EXTINF:-1 tvg-id="452454" tvg-logo="https://epg.pw/media/images/epg/2025/08/23/20250823023228367786_58.png" tvg-name"beIN SPORTS HD 2 [TR]",beIN SPORTS HD 2 [TR]
-http://192.168.100.8:6878/ace/getstream?infohash=36e9427b55dd3574f9f40eab30aef8e0f34f477e
+http://192.168.100.23:6878/ace/getstream?infohash=36e9427b55dd3574f9f40eab30aef8e0f34f477e
 #EXTINF:-1 tvg-id="452455" tvg-logo="https://epg.pw/media/images/epg/2025/08/23/20250823023231338630_81.png" tvg-name="beIN SPORTS HD 3 [TR]",beIN SPORTS HD 3 [TR]
-http://192.168.100.8:6878/ace/getstream?infohash=7fee896143ae89590d97793a0be7ad8ec6fa4552
+http://192.168.100.23:6878/ace/getstream?infohash=7fee896143ae89590d97793a0be7ad8ec6fa4552
 #EXTINF:-1 tvg-id="452448" tvg-logo="https://epg.pw/media/images/epg/2025/08/23/20250823022031672108_75.png" tvg-name="beIN SPORTS HD 4 [TR]",beIN SPORTS HD 4 [TR]
-http://192.168.100.8:6878/ace/getstream?infohash=26c1fe91207fb2a1cfa6271970081d4c2009b6fa
+http://192.168.100.23:6878/ace/getstream?infohash=26c1fe91207fb2a1cfa6271970081d4c2009b6fa
 #EXTINF:-1 tvg-id="413152" tvg-logo="https://epg.pw/media/images/epg/2025/02/23/20250223020606068934_27.png" tvg-name="beIN SPORTS XTRA",beIN SPORTS XTRA
-http://192.168.100.8:6878/ace/getstream?infohash=ac033bf7bf6eb4efa5ca3f8070742093eab47685
+http://192.168.100.23:6878/ace/getstream?infohash=ac033bf7bf6eb4efa5ca3f8070742093eab47685
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223020844830096_32.png" tvg-name"beIN SPORTS HABER [TR]",beIN SPORTS HABER [TR]
-http://192.168.100.8:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034935fb2706
+http://192.168.100.23:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034935fb2706
 #EXTINF:-1 tvg-id="400477" tvg-logo="https://tvprofil.com/img/kanali-logo/TNT_Sport_1_GB_logo.png?1690269949" tvg-name="TNT Sports 1 [UK]",TNT Sports 1 [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
+http://192.168.100.23:6878/ace/getstream?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
 #EXTINF:-1 tvg-id="400480" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" tvg-name="TNT Sports 2 [UK]",TNT Sports 2 [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=01dcc1ea3387c2b73953efe3f52286a770737d7c
+http://192.168.100.23:6878/ace/getstream?infohash=01dcc1ea3387c2b73953efe3f52286a770737d7c
 #EXTINF:-1 tvg-id="400479" tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" tvg-name="TNT Sports 3 [UK]",TNT Sports 3 [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=d57ebd44296b0c92c0661cc964e737a54b852cec
+http://192.168.100.23:6878/ace/getstream?infohash=d57ebd44296b0c92c0661cc964e737a54b852cec
 #EXTINF:-1 tvg-id="400478" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" tvg-name="TNT Sports 4 [UK]",TNT Sports 4 [UK]
-http://192.168.100.8:6878/ace/getstream?infohash=2605c201c8c9cf6684ee1de562d3b4c7e17ac915
+http://192.168.100.23:6878/ace/getstream?infohash=2605c201c8c9cf6684ee1de562d3b4c7e17ac915
 #EXTINF:-1 tvg-id="406806" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216020701165226_58.png" tvg-name="Ziggo Sport",Ziggo Sport
-http://192.168.100.8:6878/ace/getstream?infohash=8e475c8b9f12270c524f88f5659cc6811fc1399c
+http://192.168.100.23:6878/ace/getstream?infohash=8e475c8b9f12270c524f88f5659cc6811fc1399c
 #EXTINF:-1 tvg-id="406813" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021526719246_23.png" tvg-name="Ziggo Sport 2",Ziggo Sport 2
-http://192.168.100.8:6878/ace/getstream?infohash=fca28f51d5500d131770230b033c5da2b36ebf9c
+http://192.168.100.23:6878/ace/getstream?infohash=fca28f51d5500d131770230b033c5da2b36ebf9c
 #EXTINF:-1 tvg-id="5829" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608020922792573_94.png" tvg-name="Canal+ Sport 2 [PL]" ,Canal+ Sport 2 [PL]
-http://192.168.100.8:6878/ace/getstream?infohash=9bd91396b4418ae7c8eed7b8a6964eb8a43de204&pid=397
+http://192.168.100.23:6878/ace/getstream?infohash=9bd91396b4418ae7c8eed7b8a6964eb8a43de204&pid=397
 #EXTINF:-1 tvg-id="5830" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608020925632920_57.png" tvg-name="CANAL+ Sport 3 [PL]",CANAL+ Sport 3 [PL]
-http://192.168.100.8:6878/ace/getstream?infohash=1b0b33da21fc4ac7a3a28dfd7d6a2e8dadddf6f5&pid=399
+http://192.168.100.23:6878/ace/getstream?infohash=1b0b33da21fc4ac7a3a28dfd7d6a2e8dadddf6f5&pid=399
 #EXTINF:-1 tvg-id="5831" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608020928536679_79.png" tvg-name="CANAL+ Sport 4 [PL]",CANAL+ Sport 4 [PL]
-http://192.168.100.8:6878/ace/getstream?infohash=9010f93e90063729f875a05db7b899fd892deadc&pid=401
+http://192.168.100.23:6878/ace/getstream?infohash=9010f93e90063729f875a05db7b899fd892deadc&pid=401
 #EXTINF:-1tvg-id="406821" tvg-logo="https://epg.pw/media/images/epg/2024/12/11/20241211021939916088_60.png" tvg-name"ORF SPORT+ HD [DE]",ORF SPORT+ HD [DE]
-http://192.168.100.8:6878/ace/getstream?infohash=e10a61b33dc7ac7804cb2b9379512659d673f3c0&pid=1269
+http://192.168.100.23:6878/ace/getstream?infohash=e10a61b33dc7ac7804cb2b9379512659d673f3c0&pid=1269
 #EXTINF:-1 tvg-id="7136" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032243202696_90.png" tvg-name"Polsat Sport Premium 1 [PL]",Polsat Sport Premium 1 [PL]
-http://192.168.100.8:6878/ace/getstream?infohash=58b193890946b099a7d2c7dca37a48b36a12467f&pid=1337
+http://192.168.100.23:6878/ace/getstream?infohash=58b193890946b099a7d2c7dca37a48b36a12467f&pid=1337
 #EXTINF:-1 tvg-id="7135" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032240026618_13.png" tvg-name"Polsat Sport Premium 2 [PL]",Polsat Sport Premium 2 [PL]
-http://192.168.100.8:6878/ace/getstream?infohash=70ba32a661dc71ac3008f2bcb8aa202c5514f4e3&pid=1338
+http://192.168.100.23:6878/ace/getstream?infohash=70ba32a661dc71ac3008f2bcb8aa202c5514f4e3&pid=1338
 #EXTINF:-1 tvg-id="6003" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608021928330931_90.png" tvg-name"Polsat Sport [PL]",Polsat Sport [PL]
-http://192.168.100.8:6878/ace/getstream?infohash=5fc250f907b3bce0eda3caeb5cf86888e600b262&pid=1334
+http://192.168.100.23:6878/ace/getstream?infohash=5fc250f907b3bce0eda3caeb5cf86888e600b262&pid=1334
 #EXTINF:-1 tvg-id="7835" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608040248925277_22.png" tvg-name"Polsat Sport Extra [PL]",Polsat Sport Extra [PL]
-http://192.168.100.8:6878/ace/getstream?infohash=f0beebc90853dc8342691a85539b5efbe0e94c1e&pid=1335
+http://192.168.100.23:6878/ace/getstream?infohash=f0beebc90853dc8342691a85539b5efbe0e94c1e&pid=1335
 #EXTINF:-1 tvg-id="6152" tvg-logo="https://static.epg.best/ru/MatchFutbol1.ru.png" tvg-name"Матч! Футбол 1[RU]",Матч! Футбол 1[RU]
-http://192.168.100.8:6878/ace/getstream?infohash=0bb7252a2a8dd3704b3a6c0538478450b8987012&pid=2266
+http://192.168.100.23:6878/ace/getstream?infohash=0bb7252a2a8dd3704b3a6c0538478450b8987012&pid=2266
 #EXTINF:-1 tvg-id="6150" tvg-logo="https://static.epg.best/ru/MatchFutbol2.ru.png" tvg-name"Матч! Футбол 2[RU",Матч! Футбол 2[RU]
-http://192.168.100.8:6878/ace/getstream?infohash=fc5e35ba19a015dc14fa4060fb922f7cbc026f96&pid=2267
+http://192.168.100.23:6878/ace/getstream?infohash=fc5e35ba19a015dc14fa4060fb922f7cbc026f96&pid=2267
 #EXTINF:-1 tvg-id="6151.ru" tvg-logo="https://static.epg.best/ru/MatchFutbol3.ru.png" tvg-name"Матч! Футбол 3[RU]",Матч! Футбол 3[RU]
-http://192.168.100.8:6878/ace/getstream?infohash=7f6ceda82b964c416983ab233787cee4e2333435&pid=2269
+http://192.168.100.23:6878/ace/getstream?infohash=7f6ceda82b964c416983ab233787cee4e2333435&pid=2269
 #EXTINF:-1 tvg-id="5778" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608020619329228_10.png" tvg-name"TVP Sport HD [PL]",TVP Sport HD [PL]
-http://192.168.100.8:6878/ace/getstream?infohash=8356abd054c23015cfc1b1f187f8a7e30940b3f5&pid=1846
+http://192.168.100.23:6878/ace/getstream?infohash=8356abd054c23015cfc1b1f187f8a7e30940b3f5&pid=1846
 #EXTINF:-1 tvg-id="406568" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021844540554_56.png" tvg-name"M. Liga de Campeones",M. Liga de Campeones
-http://192.168.100.8:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373&pid=1058
+http://192.168.100.23:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373&pid=1058
 #EXTINF:-1 tvg-id="406568" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021844540554_56.png" tvg-name"M. Liga de Campeones",M. Liga de Campeones
-http://192.168.100.8:6878/ace/getstream?infohash=dfa66881b9613a77bd5479f6eedc5542504c3ef7&pid=1059
+http://192.168.100.23:6878/ace/getstream?infohash=dfa66881b9613a77bd5479f6eedc5542504c3ef7&pid=1059
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
-http://192.168.100.8:6878/ace/getstream?infohash=17610faea647e0e4c27f939a9d123460511e338f&pid=1287
+http://192.168.100.23:6878/ace/getstream?infohash=17610faea647e0e4c27f939a9d123460511e338f&pid=1287
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
-http://192.168.100.8:6878/ace/getstream?infohash=17d3985309af4a6b9ecbf0f81052175636164787&pid=1288
+http://192.168.100.23:6878/ace/getstream?infohash=17d3985309af4a6b9ecbf0f81052175636164787&pid=1288
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
-http://192.168.100.8:6878/ace/getstream?infohash=22afa19a32d33b5c7e4636e620b7d0097932cadd&pid=1289
+http://192.168.100.23:6878/ace/getstream?infohash=22afa19a32d33b5c7e4636e620b7d0097932cadd&pid=1289
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
-http://192.168.100.8:6878/ace/getstream?infohash=3dc8985572adfb56dd68359dbfe5bb56c511212b&pid=1290
+http://192.168.100.23:6878/ace/getstream?infohash=3dc8985572adfb56dd68359dbfe5bb56c511212b&pid=1290
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
-http://192.168.100.8:6878/ace/getstream?infohash=cb4f11e009bdc7acdbc89ba2a7c570217e793e2c&pid=1291
+http://192.168.100.23:6878/ace/getstream?infohash=cb4f11e009bdc7acdbc89ba2a7c570217e793e2c&pid=1291
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",pimpletv.ru
-http://192.168.100.8:6878/ace/getstream?infohash=d8957a192294d039102c398609024a7d94f18be2&pid=1292
+http://192.168.100.23:6878/ace/getstream?infohash=d8957a192294d039102c398609024a7d94f18be2&pid=1292
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",Dubai Sports 2
-http://192.168.100.8:6878/ace/getstream?infohash=7f5dc2a858b5972598f10c843b28c73597801a96
+http://192.168.100.23:6878/ace/getstream?infohash=7f5dc2a858b5972598f10c843b28c73597801a96
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name"",Dubai Sports 3
-http://192.168.100.8:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75ecb06
+http://192.168.100.23:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75ecb06
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/07/13/20240713021507338506_53.png" tvg-name"Fashion TV Midnite Secrets",Fashion TV Midnite Secrets
-http://192.168.100.8:6878/ace/getstream?infohash=1ae3ea36e18c82217294ea66a3674821b02ccb68
+http://192.168.100.23:6878/ace/getstream?infohash=1ae3ea36e18c82217294ea66a3674821b02ccb68
+
 
 
 
