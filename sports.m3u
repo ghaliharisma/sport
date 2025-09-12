@@ -133,6 +133,219 @@ http://192.168.100.23:6878/ace/getstream?infohash=7f5dc2a858b5972598f10c843b28c7
 http://192.168.100.23:6878/ace/getstream?infohash=07a3a89922fcd3679c5178f2616ec565a75ecb06
 
 
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox Cricket
+https://a1xs.vip/700001
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox Cricket [BU]
+https://urmoma.netlify.app/stream/369.m3u8
+
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox League" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542983:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox League
+https://a1xs.vip/700002
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox League" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542983:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox League [BU]
+https://urmoma.netlify.app/stream/820.m3u8
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox League" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542983:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox League [BU]
+http://141.94.192.58:8080/play/UsbdHHF4CuyhDOCkoTUMXY00iQeZA1SYWM8i58zSQ-Y/ts
+
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox Sports 503
+https://a1xs.vip/700003
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox Sports 503 [BU]
+https://urmoma.netlify.app/stream/821.m3u8
+
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Footy" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox Footy
+https://a1xs.vip/700004
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Footy" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox Footy [BU]
+https://urmoma.netlify.app/stream/822.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox Sports 505
+https://a1xs.vip/700005
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox Sports 505 [BU]
+https://urmoma.netlify.app/stream/823.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=504388:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox Sports 506
+https://a1xs.vip/700006
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=504388:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox Sports 506 [BU]
+https://urmoma.netlify.app/stream/824.m3u8
+
+
+#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox More" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=1704826:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox More+
+https://a1xs.vip/700007
+
+
+#EXTINF:-1 tvg-id="ESPN1.au" tvg-name="ESPN 1" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=570991:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",ESPN 1  (unstable)
+http://iptvtree.net:8080/F28312/cc1dc138/294449
+
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-name="ESPN 2" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=570992:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",ESPN 2 (unstable)
+http://iptvtree.net:8080/F28312/cc1dc138/35326
+
+#EXTINF:-1 tvg-id="Main.Event.Ufc.au" tvg-name="Main Event UFC" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=16859930:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Main Event UFC
+http://visitmy.collegefan.org:80/sharid/6394875120/815032
+
+#EXTINF:-1 tvg-id="BeinSport1.au" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-1-us.png" group-title="AU | Kayo Sports",beIN Sports 1
+https://urmoma.netlify.app/stream/491.m3u8
+
+#EXTINF:-1 tvg-id="BeinSport2.au" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-2-us.png" group-title="AU | Kayo Sports",beIN Sports 2
+https://urmoma.netlify.app/stream/492.m3u8
+
+#EXTINF:-1 tvg-id="BeinSport3.au" tvg-name="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-3-us.png" group-title="AU | Kayo Sports",beIN Sports 3
+https://urmoma.netlify.app/stream/493.m3u8
+
+—TNT Sports UK
+
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 FHD" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="UK | TNT Sports",TNT Sports 1
+https://urmoma.netlify.app/stream/31.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 FHD" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="UK | TNT Sports",TNT Sports 2 
+https://urmoma.netlify.app/stream/32.m3u8
+
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3 FHD" tvg-logo="https://i.imgur.com/z1d9M65.png" group-title="UK | TNT Sports",TNT Sports 3
+https://urmoma.netlify.app/stream/33.m3u8
+
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 FHD" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="UK | TNT Sports",TNT Sports 4 
+https://urmoma.netlify.app/stream/34.m3u8
+
+—Sky Sports UK
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK | Sky Sports",Sky Sports Main Event
+https://urmoma.netlify.app/stream/38.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK | Sky Sports",Sky Sports Main Event [BU]
+http://cord-cutter.net:8080/hq3y4G/234247/137720
+
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="UK | Sky Sports",Sky Sports Premier League
+https://urmoma.netlify.app/stream/130.m3u8
+
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="UK | Sky Sports",Sky Sports F1
+https://urmoma.netlify.app/stream/60.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="UK | Sky Sports",Sky Sports F1 [BU]
+http://cord-cutter.net:8080/hq3y4G/234247/35244
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="UK | Sky Sports",Sky Sports Football
+https://urmoma.netlify.app/stream/35.m3u8
+
+
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="UK | Sky Sports",Sky Sports Cricket
+https://urmoma.netlify.app/stream/65.m3u8
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="UK | Sky Sports",Sky Sports Cricket [BU]
+http://cord-cutter.net:8080/hq3y4G/234247/45940
+
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="UK | Sky Sports",Sky Sports Golf
+https://urmoma.netlify.app/stream/70.m3u8
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="UK | Sky Sports",Sky Sports Golf [BU]
+http://cord-cutter.net:8080/hq3y4G/234247/35240
+
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="UK | Sky Sports",Sky Sports Mix
+https://urmoma.netlify.app/stream/449.m3u8
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="UK | Sky Sports",Sky Sports Mix [BU]
+http://cord-cutter.net:8080/hq3y4G/234247/53706
+
+
+#EXTINF:-1 tvg-id="SkySp.NflHD.uk" tvg-name="Sky Sports NFL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="UK | Sky Sports",Sky Sports NFL
+https://urmoma.netlify.app/stream/37.m3u8
+
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK | Sky Sports",Sky Sports News
+https://urmoma.netlify.app/stream/366.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="UK | Sky Sports",Sky Sports Racing
+https://urmoma.netlify.app/stream/554.m3u8
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="UK | Sky Sports",Sky Sports Racing [BU]
+http://cord-cutter.net:8080/hq3y4G/234247/76842
+
+
+#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+ FHD" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="UK | Sky Sports",Sky Sports+
+http://cord-cutter.net:8080/hq3y4G/234247/137719
+
+—Sky Sport NZ
+
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-name="SKY Sport 1 NZ" tvg-logo="https://i.imgur.com/NRK8Uc6.png" group-title="NZ | Sky Sport",Sky Sport 1 
+https://urmoma.netlify.app/stream/588.m3u8
+
+
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-name="SKY Sport 2 NZ" tvg-logo="https://i.imgur.com/IEDwF39.png" group-title="NZ | Sky Sport",Sky Sport 2 
+https://urmoma.netlify.app/stream/589.m3u8
+
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-name="SKY Sport 3 NZ" tvg-logo="https://i.imgur.com/gTeEX4f.png" group-title="NZ | Sky Sport",Sky Sport 3
+https://urmoma.netlify.app/stream/590.m3u8
+
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-name="SKY Sport 4 NZ" tvg-logo="https://i.imgur.com/ogjOWQV.png" group-title="NZ | Sky Sport",Sky Sport 4 
+https://urmoma.netlify.app/stream/591.m3u8
+
+
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-name="SKY Sport 5 NZ" tvg-logo="https://i.imgur.com/zIRnRJM.png" group-title="NZ | Sky Sport",Sky Sport 5 
+https://urmoma.netlify.app/stream/592.m3u8
+
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-name="SKY Sport 6 NZ" tvg-logo="https://i.imgur.com/o0Icbjt.png" group-title="NZ | Sky Sport",Sky Sport 6
+https://urmoma.netlify.app/stream/593.m3u8
+
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-name="SKY Sport 7 NZ" tvg-logo="https://i.imgur.com/AznJTOJ.png" group-title="NZ | Sky Sport",Sky Sport 7 
+https://urmoma.netlify.app/stream/594.m3u8
+
+
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-name="Sky Sport PL NZ" tvg-logo="https://i.imgur.com/ZlADOPM.png" group-title="NZ | Sky Sport",Sky Sport 8 [BU]
+https://urmoma.netlify.app/stream/595.m3u8
+
+#EXTINF:-1 tvg-id="SKY.Sport.9.nz" tvg-name="SKY Sport 9 NZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-9-nz.png" group-title="NZ | Sky Sport",Sky Sport 9
+https://urmoma.netlify.app/stream/596.m3u8
+
+#EXTINF:-1 tvg-id="SKY.Sport.Select.nz" tvg-name="SKY Sport SELECT NZ" tvg-logo="https://images.skyone.co.nz/media/images/stills/channel/22/2edac4b77a12151c2e11f6f62631d792.png?impolicy=contentTileHorizontal" group-title="NZ | Sky Sport",Sky Sport SELECT
+https://urmoma.netlify.app/stream/587.m3u8
+
+—PPV EVENTS
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 1
+http://fortv.cc:8080/56481106/11185695/250607
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 2
+http://fortv.cc:8080/56481106/11185695/250439
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 3
+http://fortv.cc:8080/56481106/11185695/250608
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 4
+http://fortv.cc:8080/56481106/11185695/250609
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 5
+http://fortv.cc:8080/56481106/11185695/250610
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 6
+http://fortv.cc:8080/56481106/11185695/250611
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 7
+http://fortv.cc:8080/56481106/11185695/250612
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 8
+http://fortv.cc:8080/56481106/11185695/250613
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 9
+http://fortv.cc:8080/56481106/11185695/250614
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 10
+http://fortv.cc:8080/56481106/11185695/250615
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 11
+http://fortv.cc:8080/56481106/11185695/250616
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 12
+http://fortv.cc:8080/56481106/11185695/250617
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 13
+http://fortv.cc:8080/56481106/11185695/250618
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 14
+http://fortv.cc:8080/56481106/11185695/250401
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 15
+http://fortv.cc:8080/56481106/11185695/250619
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 16
+http://fortv.cc:8080/56481106/11185695/250620
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 17
+http://fortv.cc:8080/56481106/11185695/250621
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 19
+http://fortv.cc:8080/56481106/11185695/250622
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 20
+http://fortv.cc:8080/56481106/11185695/250623
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 21
+http://fortv.cc:8080/56481106/11185695/250624
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 22
+http://fortv.cc:8080/56481106/11185695/250625
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 23
+http://fortv.cc:8080/56481106/11185695/250626
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 24
+http://fortv.cc:8080/56481106/11185695/250627
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 25
+http://fortv.cc:8080/56481106/11185695/250628
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 1 (720p) [Geo-blocked]
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 2 (720p) [Geo-blocked]
@@ -157,6 +370,7 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/07/13/20240713021507338506_53.png" tvg-name"Fashion TV Midnite Secrets",Fashion TV Midnite Secrets
 http://192.168.100.23:6878/ace/getstream?infohash=1ae3ea36e18c82217294ea66a3674821b02ccb68
+
 
 
 
