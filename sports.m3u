@@ -33,11 +33,11 @@ http://192.168.100.23:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442ee
 http://192.168.100.23:6878/ace/getstream?infohash=b62469294eacd66de15757d2d30c76f1dc971328
 #EXTINF:-1 tvg-id="12358" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223021604928490_67.png" tvg-name"Sky Sports Arena [UK]",Sky Sports Arena [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=37796ca47026bc190c7dc26827c0dfb6b61d137b
-#EXTINF:-1 tvg-id="9293" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608023337631688_49.png" tvg-name"Sky Sports Cricket [UK]",Sky Sports Cricket [UK]
+#EXTINF:-1 tvg-id="9293" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" tvg-name"Sky Sports Cricket [UK]",Sky Sports Cricket [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=610eefafd6602c094e8e89c249a11d635cb6fe29
-#EXTINF:-1 tvg-id="5791" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608020657818530_33.png" tvg-name"Sky Sports Football [UK]",Sky Sports Football [UK]
+#EXTINF:-1 tvg-id="5791" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" tvg-name"Sky Sports Football [UK]",Sky Sports Football [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=54de746f7823812312b4000422618465f7d58f87
-#EXTINF:-1 tvg-id="7673" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608035329906090_87.png" tvg-name"Sky Sports Main Event [UK]",Sky Sports Main Event [UK]
+#EXTINF:-1 tvg-id="7673" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" tvg-name"Sky Sports Main Event [UK]",Sky Sports Main Event [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=78266c15035d0ad8cbc58f821733931e1de434ab
 #EXTINF:-1 tvg-id="6958" tvg-logo="https://epg.pw/media/images/epg/2025/04/23/20250423021836465800_82.png" tvg-name"Sky Sports Premier League [UK]",Sky Sports Premier League [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f
@@ -79,13 +79,13 @@ http://192.168.100.23:6878/ace/getstream?infohash=26c1fe91207fb2a1cfa6271970081d
 http://192.168.100.23:6878/ace/getstream?infohash=ac033bf7bf6eb4efa5ca3f8070742093eab47685
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223020844830096_32.png" tvg-name"beIN SPORTS HABER [TR]",beIN SPORTS HABER [TR]
 http://192.168.100.23:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034935fb2706
-#EXTINF:-1 tvg-id="400477" tvg-logo="https://tvprofil.com/img/kanali-logo/TNT_Sport_1_GB_logo.png?1690269949" tvg-name="TNT Sports 1 [UK]",TNT Sports 1 [UK]
+#EXTINF:-1 tvg-id="400477" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1 [UK]",TNT Sports 1 [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
-#EXTINF:-1 tvg-id="400480" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" tvg-name="TNT Sports 2 [UK]",TNT Sports 2 [UK]
+#EXTINF:-1 tvg-id="400480" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-name="TNT Sports 2 [UK]",TNT Sports 2 [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=01dcc1ea3387c2b73953efe3f52286a770737d7c
-#EXTINF:-1 tvg-id="400479" tvg-logo="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" tvg-name="TNT Sports 3 [UK]",TNT Sports 3 [UK]
+#EXTINF:-1 tvg-id="400479" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" tvg-name="TNT Sports 3 [UK]",TNT Sports 3 [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=d57ebd44296b0c92c0661cc964e737a54b852cec
-#EXTINF:-1 tvg-id="400478" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" tvg-name="TNT Sports 4 [UK]",TNT Sports 4 [UK]
+#EXTINF:-1 tvg-id="400478" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-name="TNT Sports 4 [UK]",TNT Sports 4 [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=2605c201c8c9cf6684ee1de562d3b4c7e17ac915
 #EXTINF:-1 tvg-id="406806" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216020701165226_58.png" tvg-name="Ziggo Sport",Ziggo Sport
 http://192.168.100.23:6878/ace/getstream?infohash=8e475c8b9f12270c524f88f5659cc6811fc1399c
@@ -161,6 +161,7 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/07/13/20240713021507338506_53.png" tvg-name"Fashion TV Midnite Secrets",Fashion TV Midnite Secrets
 http://192.168.100.23:6878/ace/getstream?infohash=1ae3ea36e18c82217294ea66a3674821b02ccb68
+
 
 
 
