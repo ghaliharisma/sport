@@ -295,56 +295,6 @@ https://urmoma.netlify.app/stream/596.m3u8
 #EXTINF:-1 tvg-id="SKY.Sport.Select.nz" tvg-name="SKY Sport SELECT NZ" tvg-logo="https://images.skyone.co.nz/media/images/stills/channel/22/2edac4b77a12151c2e11f6f62631d792.png?impolicy=contentTileHorizontal" group-title="NZ | Sky Sport",Sky Sport SELECT
 https://urmoma.netlify.app/stream/587.m3u8
 
-—PPV EVENTS
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 1
-http://fortv.cc:8080/56481106/11185695/250607
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 2
-http://fortv.cc:8080/56481106/11185695/250439
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 3
-http://fortv.cc:8080/56481106/11185695/250608
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 4
-http://fortv.cc:8080/56481106/11185695/250609
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 5
-http://fortv.cc:8080/56481106/11185695/250610
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 6
-http://fortv.cc:8080/56481106/11185695/250611
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 7
-http://fortv.cc:8080/56481106/11185695/250612
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 8
-http://fortv.cc:8080/56481106/11185695/250613
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 9
-http://fortv.cc:8080/56481106/11185695/250614
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 10
-http://fortv.cc:8080/56481106/11185695/250615
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 11
-http://fortv.cc:8080/56481106/11185695/250616
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 12
-http://fortv.cc:8080/56481106/11185695/250617
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 13
-http://fortv.cc:8080/56481106/11185695/250618
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 14
-http://fortv.cc:8080/56481106/11185695/250401
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 15
-http://fortv.cc:8080/56481106/11185695/250619
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 16
-http://fortv.cc:8080/56481106/11185695/250620
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 17
-http://fortv.cc:8080/56481106/11185695/250621
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 19
-http://fortv.cc:8080/56481106/11185695/250622
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 20
-http://fortv.cc:8080/56481106/11185695/250623
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 21
-http://fortv.cc:8080/56481106/11185695/250624
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 22
-http://fortv.cc:8080/56481106/11185695/250625
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 23
-http://fortv.cc:8080/56481106/11185695/250626
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 24
-http://fortv.cc:8080/56481106/11185695/250627
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Event" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" group-title="PPV | Events",Event 25
-http://fortv.cc:8080/56481106/11185695/250628
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 1 (720p) [Geo-blocked]
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
@@ -370,6 +320,7 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/07/13/20240713021507338506_53.png" tvg-name"Fashion TV Midnite Secrets",Fashion TV Midnite Secrets
 http://192.168.100.23:6878/ace/getstream?infohash=1ae3ea36e18c82217294ea66a3674821b02ccb68
+
 
 
 
