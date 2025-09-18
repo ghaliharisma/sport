@@ -175,15 +175,15 @@ https://a1xs.vip/700005
 https://a1xs.vip/700006
 #EXTINF:-1  tvg-name="Fox Sports 507" tvg-id="FoxSportsMore.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=1704826:206:CHANNEL:IMAGE:png&amp;w=400" group-title="AU | Kayo Sports",Fox Sports 507
 https://a1xs.vip/700007
-#EXTINF:-1  tvg-name="Premier Sports 1 (720p) [Geo-blocked]" tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 1 (720p) [Geo-blocked]
+#EXTINF:-1  tvg-name="Premier Sports 1" tvg-id="" tvg-logo="https://i.imgur.com/t5qCejI.png" group-title="Undefined",Premier Sports 1
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-#EXTINF:-1  tvg-name="Premier Sports 2 (720p) [Geo-blocked]" tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 2 (720p) [Geo-blocked]
+#EXTINF:-1  tvg-name="Premier Sports 2" tvg-id="" tvg-logo="https://i.imgur.com/eMNWhDq.png" group-title="Undefined",Premier Sports 2
 https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-#EXTINF:-1  tvg-name="Premier Sports 3 (720p) [Geo-blocked]" tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 3 (720p) [Geo-blocked]
+#EXTINF:-1  tvg-name="Premier Sports 3" tvg-id="" tvg-logo="https://i.imgur.com/KSBrV8Q.png" group-title="Undefined",Premier Sports 3
 https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
-#EXTINF:-1  tvg-name="Premier Sports 4 (720p) [Geo-blocked]" tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 4 (720p) [Geo-blocked]
+#EXTINF:-1  tvg-name="Premier Sports 4" tvg-id="" tvg-logo="https://i.imgur.com/XHBJ7UB.png" group-title="Undefined",Premier Sports 4
 https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-#EXTINF:-1  tvg-name="Premier Sports 5 (720p) [Geo-blocked]" tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 5 (720p) [Geo-blocked]
+#EXTINF:-1  tvg-name="Premier Sports 5" tvg-id="" tvg-logo="https://i.imgur.com/LkIe9gR.png" group-title="Undefined",Premier Sports 5
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 #EXTINF:-1  tvg-name="NBC Sports Bay Area (720p)" tvg-id="NBCSportsBayArea.us" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="Sports",NBC Sports Bay Area (720p)
 https://tvpass.org/live/nbc-sports-bay-area/hd
@@ -197,3 +197,4 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1  tvg-name="Fashion TV Midnite Secrets" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/07/13/20240713021507338506_53.png" group-title="",Fashion TV Midnite Secrets
 http://192.168.100.23:6878/ace/getstream?infohash=1ae3ea36e18c82217294ea66a3674821b02ccb68
+
