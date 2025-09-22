@@ -26,7 +26,7 @@ http://192.168.100.23:6878/ace/getstream?infohash=3c0cfbeb4075be58baa32e41dabee3
 #EXTINF:-1  tvg-name="DAZN 5 [PT]" tvg-id="410323" tvg-logo="https://epg.pw/media/images/epg/2025/01/29/20250129021156095171_58.png" group-title="",DAZN 5 [PT]
 http://192.168.100.23:6878/ace/getstream?infohash=2c9a996c060d157ff63109c5b999d55bbc2ffd95
 #EXTINF:-1  tvg-name="DAZN F1 [ES]" tvg-id="406540" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021157328772_64.png" group-title="",DAZN F1 [ES]
-http://192.168.100.23:6878/ace/manifest.m3u8?id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
+http://192.168.100.23:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&pid=44582
 #EXTINF:-1  tvg-name="Sky Sports F1 [DE]" tvg-id="427687" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="",Sky Sports F1 [DE]
 http://192.168.100.23:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2
 #EXTINF:-1  tvg-name="Sky Sports F1 [UK]" tvg-id="12190" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223021009094921_46.png" group-title="",Sky Sports F1 [UK]
@@ -39,11 +39,11 @@ http://192.168.100.23:6878/ace/getstream?infohash=610eefafd6602c094e8e89c249a11d
 http://192.168.100.23:6878/ace/getstream?infohash=54de746f7823812312b4000422618465f7d58f87
 #EXTINF:-1  tvg-name="Sky Sports Main Event [UK]" tvg-id="7673" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="",Sky Sports Main Event [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=78266c15035d0ad8cbc58f821733931e1de434ab
-#EXTINF:-1  tvg-name="Sky Sports Mix" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="UK | Sky Sports",Sky Sports Mix
+#EXTINF:-1  tvg-name="Sky Sports Mix" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png" group-title="UK | Sky Sports",Sky Sports Mix
 http://cord-cutter.net:8080/hq3y4G/234247/53706
 #EXTINF:-1  tvg-name="Sky Sports Premier League [UK]" tvg-id="6958" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="",Sky Sports Premier League [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f
-#EXTINF:-1  tvg-name="Sky Sports+" tvg-id="SkySp+HD.uk" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="UK | Sky Sports",Sky Sports+
+#EXTINF:-1  tvg-name="Sky Sports+" tvg-id="SkySp+HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png" group-title="UK | Sky Sports",Sky Sports+
 http://cord-cutter.net:8080/hq3y4G/234247/137719
 #EXTINF:-1  tvg-name="Eurosport 1" tvg-id="6085" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608022438488106_72.png" group-title="",Eurosport 1
 http://192.168.100.23:6878/ace/manifest.m3u8?id=ef2abf419586d9876370be127ad592dbb41b126a
@@ -53,11 +53,11 @@ http://192.168.100.23:6878/ace/manifest.m3u8?id=37d6f1aabcde81ee6e4873b4db6b7bb8
 http://192.168.100.23:6878/ace/getstream?infohash=df23d9ca9275b354e23156d59b8bc1122441fa47
 #EXTINF:-1  tvg-name="FOX Sports 2 [US]" tvg-id="403457" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="",FOX Sports 2 [US]
 http://192.168.100.23:6878/ace/getstream?infohash=e765303108614af0f9a42da7b45a147195982796
-#EXTINF:-1  tvg-name="Red Bull TV" tvg-id="" tvg-logo="https://cdn.imgbin.com/2/8/2/imgbin-red-bull-tv-television-channel-logo-red-bull-6LbgfL2vVtvFpdYSYZx8xm1yE.jpg" group-title="",Red Bull TV
+#EXTINF:-1  tvg-name="Red Bull TV" tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" group-title="",Red Bull TV
 http://192.168.100.23:6878/ace/getstream?infohash=2c4cc43211c6de21ac7bd5fc4dc8cdfc991246ee
-#EXTINF:-1  tvg-name="Premier Sports 1 [UK]" tvg-id="408613" tvg-logo="https://epg.pw/media/images/epg/2025/02/14/20250214020739986975_47.png" group-title="",Premier Sports 1 [UK]
+#EXTINF:-1  tvg-name="Premier Sports 1 [UK]" tvg-id="408613" tvg-logo="https://footballontv.com/media/channels/logos/Premier%20Sports%201@3x.png" group-title="",Premier Sports 1 [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=13ddaf59c0f2d760fd3775acc254e13825206eac
-#EXTINF:-1  tvg-name="Premier Sports 2 [UK]" tvg-id="408658" tvg-logo="https://epg.pw/media/images/epg/2025/02/14/20250214023025369820_39.png" group-title="",Premier Sports 2 [UK]
+#EXTINF:-1  tvg-name="Premier Sports 2 [UK]" tvg-id="408658" tvg-logo="https://dn721605.ca.archive.org/0/items/premier-sports-2-2021/Premier_Sports_2_2021.png" group-title="",Premier Sports 2 [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=086e4c7ccc0b80e2960a553d04dac1024c7787b9
 #EXTINF:-1  tvg-name="ESPN US]" tvg-id="408636" tvg-logo="https://epg.pw/media/images/epg/2025/01/27/20250127022013891868_22.png" group-title="",ESPN US]
 http://192.168.100.23:6878/ace/getstream?infohash=0dca83a7cc9184893ff96ee2355874342fc8fd45
@@ -79,9 +79,9 @@ http://192.168.100.23:6878/ace/getstream?infohash=36e9427b55dd3574f9f40eab30aef8
 http://192.168.100.23:6878/ace/getstream?infohash=7fee896143ae89590d97793a0be7ad8ec6fa4552
 #EXTINF:-1  tvg-name="beIN SPORTS HD 4 [TR]" tvg-id="452448" tvg-logo="https://i.imgur.com/vwAgJNi.png" group-title="",beIN SPORTS HD 4 [TR]
 http://192.168.100.23:6878/ace/getstream?infohash=26c1fe91207fb2a1cfa6271970081d4c2009b6fa
-#EXTINF:-1  tvg-name="beIN SPORTS XTRA" tvg-id="413152" tvg-logo="https://epg.pw/media/images/epg/2025/02/23/20250223020606068934_27.png" group-title="",beIN SPORTS XTRA
+#EXTINF:-1  tvg-name="beIN SPORTS XTRA" tvg-id="413152" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658" group-title="",beIN SPORTS XTRA
 http://192.168.100.23:6878/ace/getstream?infohash=ac033bf7bf6eb4efa5ca3f8070742093eab47685
-#EXTINF:-1  tvg-name="beIN SPORTS HABER [TR]" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223020844830096_32.png" group-title="",beIN SPORTS HABER [TR]
+#EXTINF:-1  tvg-name="beIN SPORTS HABER [TR]" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="",beIN SPORTS HABER [TR]
 http://192.168.100.23:6878/ace/getstream?infohash=22d5b3999d11a4f1bad9da8fdaa9034935fb2706
 #EXTINF:-1  tvg-name="TNT Sports 1 [UK]" tvg-id="400477" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="",TNT Sports 1 [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
@@ -197,4 +197,3 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1  tvg-name="Fashion TV Midnite Secrets" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/07/13/20240713021507338506_53.png" group-title="",Fashion TV Midnite Secrets
 http://192.168.100.23:6878/ace/getstream?infohash=1ae3ea36e18c82217294ea66a3674821b02ccb68
-
