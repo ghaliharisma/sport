@@ -1,8 +1,4 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
-#EXTINF:-1  tvg-name="Max Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQoTxr7eUinhVrDg-ruJuFvWIKwTjva-lrg&s" tvg-chno="Premium Movies" group-title="Entertaintment" :http-referrer="IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1" :http-user-agent="Max Stream",Max Stream
-#EXTVLCOPT:http-user-agent=Max Stream
-#EXTVLCOPT:http-referrer=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1  tvg-name="Dens Life & Style" tvg-id="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" tvg-chno="Entertainment & LifeStyle" group-title="Entertaintment" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" :http-user-agent="Dens Life & Style",Dens Life & Style
 #EXTVLCOPT:http-user-agent=Dens Life & Style
 #EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -11,8 +7,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 #EXTVLCOPT:http-user-agent=Dens Food Channel
 #EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
-#EXTINF:-1  tvg-name="Moonbug Kids" tvg-id="MoonbugKids.us" tvg-logo="https://iili.io/JmoB0wx.png" tvg-chno="" group-title="Kids" :http-referrer="" :http-user-agent="",Moonbug Kids
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+#EXTINF:-1  tvg-name="HITS NOW" tvg-id="" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",HITS NOW[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+#EXTINF:-1  tvg-name="MAXSTREAM" tvg-id="" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",MAXSTREAM[INDIHOME]
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1  tvg-name="Rock Entertainment" tvg-id="RockEntertainment.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",Rock Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
@@ -46,66 +44,66 @@ http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
 #EXTINF:-1  tvg-name="TVOne" tvg-id="tvOne.my.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",TVOne
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
-#EXTINF:-1  tvg-name="Trans TV" tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",Trans TV
+#EXTINF:-1  tvg-name="CNBC Indonesia" tvg-id="CNBCIndonesia.id" tvg-logo="https://iili.io/28yAlAN.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1  tvg-name="CNN Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1  tvg-name="Trans TV" tvg-id="transtv" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/transtv.jpg?raw=true" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1  tvg-name="Trans 7" tvg-id="Trans7.my.id" tvg-logo="http://kamiselaluada.com/img/trans7.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",Trans 7
+#EXTINF:-1  tvg-name="Trans 7" tvg-id="Trans7.my.id" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1  tvg-name="SCTV" tvg-id="SCTV.my.id" tvg-logo="https://iili.io/JMp3iiX.png" tvg-chno="" group-title="Nasional" :http-referrer="http://dens.tv/" :http-user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",SCTV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #EXTINF:-1  tvg-name="RTV" tvg-id="RTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/" :http-user-agent="Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.id" tvg-logo="https://iili.io/JMp3joP.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",GTV
+https://allcutv.rctiplus.id/gtv2023.m3u8
 #EXTINF:-1  tvg-name="RCTI" tvg-id="RCTI.id" tvg-logo="https://iili.io/JMp36xI.png" tvg-chno="" group-title="Nasional" :http-referrer="http://dens.tv/" :http-user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",RCTI
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 https://allcutv.rctiplus.id/rcti2023.m3u8
+#EXTINF:-1  tvg-name="MNCTV" tvg-id="MNCTV.id" tvg-logo="https://iili.io/JMp3kla.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",MNCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#EXTINF:-1  tvg-name="iNews" tvg-id="iNews.id" tvg-logo="https://iili.io/JV3x4Fs.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",iNews
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1  tvg-name="Nusantara TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbak_MpWEim44NWEDJsGjDHEHSfm_FlfvjQ&s" tvg-chno="INDONESIA" group-title="Nasional" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" :http-user-agent="NUSANTARA TV",Nusantara TV
 #EXTVLCOPT:http-user-agent=NUSANTARA TV
 #EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
-#EXTINF:-1  tvg-name="Moji" tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-#EXTINF:-1  tvg-name="MNCTV" tvg-id="MNCTV.id" tvg-logo="https://iili.io/JMp3kla.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",MNCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 #EXTINF:-1  tvg-name="MetroTV" tvg-id="MetroTV.my.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/ " :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 ",MetroTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
-#EXTINF:-1  tvg-name="Mentari TV" tvg-id="MentariTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s" tvg-chno="KIDS" group-title="Nasional" :http-referrer="IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1" :http-user-agent="Mentari TV",Mentari TV
-#EXTVLCOPT:http-user-agent=Mentari TV
-#EXTVLCOPT:http-referrer=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-#EXTINF:-1  tvg-name="MD TV" tvg-id="NET.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/" :http-user-agent="Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",MD TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
 #EXTINF:-1  tvg-name="Magna Channel" tvg-id="MagnaChannel.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/" :http-user-agent="Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite&chname=Magna_Channel
-#EXTINF:-1  tvg-name="Kompas TV" tvg-id="KompasTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501525_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/" :http-user-agent="Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
-#EXTINF:-1  tvg-name="iNews" tvg-id="iNews.id" tvg-logo="https://iili.io/JV3x4Fs.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",iNews
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#EXTINF:-1  tvg-name="SCTV" tvg-id="SCTV.my.id" tvg-logo="https://iili.io/JMp3iiX.png" tvg-chno="" group-title="Nasional" :http-referrer="http://dens.tv/" :http-user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",SCTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1  tvg-name="Indosiar 2" tvg-id="Indosiar.my.id" tvg-logo="https://iili.io/JMp3wV1.png" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/ " :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 ",Indosiar 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.id" tvg-logo="https://iili.io/JMp3joP.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",GTV
-https://allcutv.rctiplus.id/gtv2023.m3u8
-#EXTINF:-1  tvg-name="CNN Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1  tvg-name="CNBC Indonesia" tvg-id="CNBCIndonesia.id" tvg-logo="https://iili.io/28yAlAN.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1  tvg-name="Mentari TV" tvg-id="MentariTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s" tvg-chno="KIDS" group-title="Nasional" :http-referrer="IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1" :http-user-agent="Mentari TV",Mentari TV
+#EXTVLCOPT:http-user-agent=Mentari TV
+#EXTVLCOPT:http-referrer=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1  tvg-name="Moji" tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTINF:-1  tvg-name="MD TV" tvg-id="NET.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/" :http-user-agent="Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",MD TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
+#EXTINF:-1  tvg-name="Kompas TV" tvg-id="KompasTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501525_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/" :http-user-agent="Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 #EXTINF:-1  tvg-name="BN Channel" tvg-id="BNTV" tvg-logo="https://iili.io/JbtCoiu.png" tvg-chno="" group-title="Nasional" :http-referrer="http://dens.tv/" :http-user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",BN Channel
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
