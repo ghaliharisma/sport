@@ -1,1 +1,271 @@
-#EXTM3U
+#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+#EXTINF:-1  tvg-name="Max Stream" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQoTxr7eUinhVrDg-ruJuFvWIKwTjva-lrg&s" tvg-chno="Premium Movies" group-title="Entertaintment" :http-referrer="IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1" :http-user-agent="Max Stream",https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTVLCOPT:http-user-agent=Max Stream
+#EXTVLCOPT:http-referrer=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTINF:-1  tvg-name="Dens Life & Style" tvg-id="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" tvg-chno="Entertainment & LifeStyle" group-title="Entertaintment" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" :http-user-agent="Dens Life & Style",https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+#EXTVLCOPT:http-user-agent=Dens Life & Style
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1  tvg-name="Dens Food Channel" tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" tvg-chno="Entertainment & LifeStyle" group-title="Entertaintment" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" :http-user-agent="Dens Food Channel",https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+#EXTVLCOPT:http-user-agent=Dens Food Channel
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1  tvg-name="Moonbug Kids" tvg-id="MoonbugKids.us" tvg-logo="https://iili.io/JmoB0wx.png" tvg-chno="" group-title="Kids" :http-referrer="" :http-user-agent="",Moonbug ??
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+#EXTINF:-1  tvg-name="Rock Entertainment" tvg-id="RockEntertainment.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",Rock Entertainment ?
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
+#EXTINF:-1  tvg-name="ROCK Action" tvg-id="ROCKAction.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502069_tvchannels_v1.jpg" tvg-chno="" group-title="Movies" :http-referrer="https://www.visionplus.id/ " :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 ",Rock Action ?
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action
+#EXTINF:-1  tvg-name="MY CINEMA EUROPE HD DENS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IXCH31G-Uo87_dQWdLUHd52hbI_2NtDwRQ&s" tvg-chno="Premium Movies" group-title="Movies" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" :http-user-agent="MY CINEMA EUROPE HD DENS",http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
+#EXTVLCOPT:http-user-agent=MY CINEMA EUROPE HD DENS
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+
+#EXTINF:-1  tvg-name="MY CINEMA ASIA DENS" tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg" tvg-chno="Premium Movies" group-title="Movies" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" :http-user-agent="MY CINEMA ASIA DENS",http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+#EXTVLCOPT:http-user-agent=MY CINEMA ASIA DENS
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+
+#EXTINF:-1  tvg-name="HBOSignature1" tvg-id="HBO Signature.id" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" tvg-chno="" group-title="Movies" :http-referrer="https://www.firstmedia.com" :http-user-agent="ExoPlayerDemo/2.15.1",HBO Signature ??
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+#EXTINF:-1  tvg-name="HBO Signature" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-chno="HBO" group-title="Movies" :http-referrer="" :http-user-agent="HBO Signature",https://dl.dropboxusercontent.com/scl/fi/4g8v7vxu9nqwz608szt77/HBO_SIG.m3u8?rlkey=0wpw3lr2cnqygy5f5rvsad8eq
+#EXTVLCOPT:http-user-agent=HBO Signature
+
+#EXTINF:-1  tvg-name="HBO Hits" tvg-id="HBO Hits.id" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" tvg-chno="" group-title="Movies" :http-referrer="https://www.firstmedia.com" :http-user-agent="ExoPlayerDemo/2.15.1",HBO Hits ??
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+#EXTINF:-1  tvg-name="HBO Hits" tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-chno="HBO" group-title="Movies" :http-referrer="" :http-user-agent="HBO Hits",https://dl.dropboxusercontent.com/scl/fi/mrhqmp2glr0z9fjrues9r/HBO_HITS.m3u8?rlkey=ea4y7k38ddra7dvyjwav2f5w7
+#EXTVLCOPT:http-user-agent=HBO Hits
+
+#EXTINF:-1  tvg-name="HBO Family" tvg-id="HBO Family.id tvg-name=" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" tvg-chno="" group-title="Movies" :http-referrer="https://www.firstmedia.com" :http-user-agent="ExoPlayerDemo/2.15.1",HBO Family ??
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+#EXTINF:-1  tvg-name="HBO Family" tvg-id="414.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" tvg-chno="HBO" group-title="Movies" :http-referrer="" :http-user-agent="HBO Family",https://dl.dropboxusercontent.com/scl/fi/in4900m4mvd6vocrthhaw/HBO_FAM.m3u8?rlkey=ib8qky6h6oyj8x6d616l5elow
+#EXTVLCOPT:http-user-agent=HBO Family
+
+#EXTINF:-1  tvg-name="HBO" tvg-id="HBO.id" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" tvg-chno="" group-title="Movies" :http-referrer="https://www.firstmedia.com" :http-user-agent="ExoPlayerDemo/2.15.1",HBO ??
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+#EXTINF:-1  tvg-name="Etv Bioskop1" tvg-id="" tvg-logo="https://iili.io/3PewxHl.png" tvg-chno="Premium Movies" group-title="Movies" :http-referrer="" :http-user-agent="Etv Bioskop1",http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
+#EXTVLCOPT:http-user-agent=Etv Bioskop1
+
+#EXTINF:-1  tvg-name="Cinemax" tvg-id="Cinemax.id" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",Cinemax ??
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+#EXTINF:-1  tvg-name="Cinemax" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" tvg-chno="HBO" group-title="Movies" :http-referrer="" :http-user-agent="Cinemax",https://dl.dropboxusercontent.com/scl/fi/j5865bib5wy1i72ppk2hx/cinemax.m3u8?rlkey=qkzwmgpv6lhf8ccuplf39c21n
+#EXTVLCOPT:http-user-agent=Cinemax
+
+#EXTINF:-1  tvg-name="TVOne" tvg-id="tvOne.my.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",TVOne
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
+#EXTINF:-1  tvg-name="Trans TV" tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1  tvg-name="Trans 7" tvg-id="Trans7.my.id" tvg-logo="http://kamiselaluada.com/img/trans7.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1  tvg-name="SCTV" tvg-id="SCTV.my.id" tvg-logo="https://iili.io/JMp3iiX.png" tvg-chno="" group-title="Nasional" :http-referrer="http://dens.tv/" :http-user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",SCTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+#EXTINF:-1  tvg-name="RTV" tvg-id="RTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/" :http-user-agent="Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+#EXTINF:-1  tvg-name="RCTI" tvg-id="RCTI.id" tvg-logo="https://iili.io/JMp36xI.png" tvg-chno="" group-title="Nasional" :http-referrer="http://dens.tv/" :http-user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",RCTI
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://allcutv.rctiplus.id/rcti2023.m3u8
+#EXTINF:-1  tvg-name="Nusantara TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbak_MpWEim44NWEDJsGjDHEHSfm_FlfvjQ&s" tvg-chno="INDONESIA" group-title="Nasional" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" :http-user-agent="NUSANTARA TV",https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+#EXTVLCOPT:http-user-agent=NUSANTARA TV
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1  tvg-name="Moji" tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTINF:-1  tvg-name="MNCTV" tvg-id="MNCTV.id" tvg-logo="https://iili.io/JMp3kla.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",MNCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#EXTINF:-1  tvg-name="MetroTV" tvg-id="MetroTV.my.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/ " :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 ",Metro TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
+#EXTINF:-1  tvg-name="Mentari TV" tvg-id="MentariTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPJKWUxYUQeWs-g3hBQHHFC9w9QaIyy7iw4w&s" tvg-chno="KIDS" group-title="Nasional" :http-referrer="IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1" :http-user-agent="Mentari TV",https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mentari TV
+#EXTVLCOPT:http-referrer=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTINF:-1  tvg-name="MD TV" tvg-id="NET.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740682833_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/" :http-user-agent="Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",MDTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
+#EXTINF:-1  tvg-name="Magna Channel" tvg-id="MagnaChannel.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/" :http-user-agent="Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",Magna Channel 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite&chname=Magna_Channel
+#EXTINF:-1  tvg-name="Kompas TV" tvg-id="KompasTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501525_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/" :http-user-agent="Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",Kompas TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
+#EXTINF:-1  tvg-name="iNews" tvg-id="iNews.id" tvg-logo="https://iili.io/JV3x4Fs.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",iNews
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#EXTINF:-1  tvg-name="Indosiar 2" tvg-id="Indosiar.my.id" tvg-logo="https://iili.io/JMp3wV1.png" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/ " :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 ",Indosiar 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.id" tvg-logo="https://iili.io/JMp3joP.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",GTV
+https://allcutv.rctiplus.id/gtv2023.m3u8
+#EXTINF:-1  tvg-name="CNN Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1  tvg-name="CNBC Indonesia" tvg-id="CNBCIndonesia.id" tvg-logo="https://iili.io/28yAlAN.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1  tvg-name="BN Channel" tvg-id="BNTV" tvg-logo="https://iili.io/JbtCoiu.png" tvg-chno="" group-title="Nasional" :http-referrer="http://dens.tv/" :http-user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",BN Channel
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
+#EXTINF:-1  tvg-name="Sukan TV 2" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s" tvg-chno="Sports" group-title="Sports" :http-referrer="" :http-user-agent="Sukan TV 2",https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTVLCOPT:http-user-agent=Sukan TV 2
+
+#EXTINF:-1  tvg-name="Sukan TV 1" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s" tvg-chno="Sports" group-title="Sports" :http-referrer="" :http-user-agent="Sukan TV 1",https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
+#EXTVLCOPT:http-user-agent=Sukan TV 1
+
+#EXTINF:-1  tvg-name="Sky Sports F1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" tvg-chno="Sports" group-title="Sports" :http-referrer="Player (Linux; Android 12)" :http-user-agent="Sky Sports F1",https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
+#EXTVLCOPT:http-user-agent=Sky Sports F1
+#EXTVLCOPT:http-referrer=Player (Linux; Android 12)
+
+#EXTINF:-1  tvg-name="Sky Sport MotoGP" tvg-id="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" tvg-chno="Sports" group-title="Sports" :http-referrer="Player (Linux; Android 12)" :http-user-agent="Sky Sport MotoGP",https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+#EXTVLCOPT:http-user-agent=Sky Sport MotoGP
+#EXTVLCOPT:http-referrer=Player (Linux; Android 12)
+
+#EXTINF:-1  tvg-name="Red Bull TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzkMzVFJH7okl6ZL2lAqYvFG6nyjcr3Kz5UQ&s" tvg-chno="Sports" group-title="Sports" :http-referrer="ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0" :http-user-agent="Red Bull TV",https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTVLCOPT:http-user-agent=Red Bull TV
+#EXTVLCOPT:http-referrer=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+
+#EXTINF:-1  tvg-name="Motorvision+" tvg-id="Motorvision+" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg" tvg-chno="" group-title="Sports" :http-referrer="http://dens.tv/" :http-user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",Motorvision+ ?
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision+
+#EXTINF:-1  tvg-name="C1 LIVE 20" tvg-id="" tvg-logo="https://iili.io/KfT7PJ2.jpg" tvg-chno="CADANGAN EVENT" group-title="Sports" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" :http-user-agent="C1 LIVE 20",https://hotlivezz179026907.akainu.xyz/7ZUnmJvxlnMcAlvs4phoog/Fv2lucGIbhPi2caWYvF5Lg/1757588377344/live/may171/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=C1 LIVE 20
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+#EXTINF:-1  tvg-name="C1 LIVE 10" tvg-id="" tvg-logo="https://iili.io/KfT7PJ2.jpg" tvg-chno="CADANGAN EVENT" group-title="Sports" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" :http-user-agent="C1 LIVE 10",https://hotlivezz179026907.akainu.xyz/4RrD2u_JBoXLVbTa_KjzdA/Fv2lucGIbhPi2caWYvF5Lg/1756299649897/live/may24/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=C1 LIVE 10
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+#EXTINF:-1  tvg-name="C1 LIVE 09" tvg-id="" tvg-logo="https://iili.io/KfT7PJ2.jpg" tvg-chno="CADANGAN EVENT" group-title="Sports" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" :http-user-agent="C1 LIVE 09",https://hotlivezz179026907.akainu.xyz/vDhN2o6MAbsBTSA2B6uHRg/Fv2lucGIbhPi2caWYvF5Lg/1756656886815/live/may21/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=C1 LIVE 09
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+#EXTINF:-1  tvg-name="C1 LIVE 08" tvg-id="" tvg-logo="https://iili.io/KfT7PJ2.jpg" tvg-chno="CADANGAN EVENT" group-title="Sports" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" :http-user-agent="C1 LIVE 08",https://hotlivezz179026907.akainu.xyz/Kpk3MfKA4zrmHhMDHwSzdg/Fv2lucGIbhPi2caWYvF5Lg/1756915080430/live/may20/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=C1 LIVE 08
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+#EXTINF:-1  tvg-name="C1 LIVE 04" tvg-id="" tvg-logo="https://iili.io/KfT7PJ2.jpg" tvg-chno="CADANGAN EVENT" group-title="Sports" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" :http-user-agent="C1 LIVE 04",https://hotlivezz179026907.akainu.xyz/6jvT77rxyVzOIuZqbKTCCg/Fv2lucGIbhPi2caWYvF5Lg/1754657711391/live/may10/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=C1 LIVE 04
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+#EXTINF:-1  tvg-name="TVRI Yogyakarta" tvg-id="" tvg-logo="https://iili.io/JmF1Csj.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" :http-user-agent="TVRI Yogyakarta",https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Yogyakarta
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#EXTINF:-1  tvg-name="TVRI World" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ1VJ8fS-Oh63MRSY0_9NSxm457-gypcqjOA&s" tvg-chno="Sports" group-title="TVRI" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" :http-user-agent="TVRI World",https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTVLCOPT:http-user-agent=TVRI World
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+#EXTINF:-1  tvg-name="TVRI Sumatera Utara" tvg-id="" tvg-logo="https://iili.io/JmF1oqx.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Sumatera Utara",https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Sumatera Utara
+
+#EXTINF:-1  tvg-name="TVRI Sumatera Selatan" tvg-id="" tvg-logo="https://iili.io/JmF12JS.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Sumatera Selatan",https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Sumatera Selatan
+
+#EXTINF:-1  tvg-name="TVRI Sumatera Barat" tvg-id="" tvg-logo="https://iili.io/JmF1357.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Sumatera Barat",https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Sumatera Barat
+
+#EXTINF:-1  tvg-name="TVRI Sulawesi Utara" tvg-id="" tvg-logo="https://iili.io/JmF1Fe9.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Sulawesi Utara",https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Sulawesi Utara
+
+#EXTINF:-1  tvg-name="TVRI Sulawesi Tenggara" tvg-id="" tvg-logo="https://iili.io/JmF1Kbe.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Sulawesi Tenggara",https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Sulawesi Tenggara
+
+#EXTINF:-1  tvg-name="TVRI Sulawesi Tengah" tvg-id="" tvg-logo="https://iili.io/JmF1t2V.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Sulawesi Tengah",https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Sulawesi Tengah
+
+#EXTINF:-1  tvg-name="TVRI Sulawesi Selatan" tvg-id="" tvg-logo="https://iili.io/JmF16hu.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Sulawesi Selatan",https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Sulawesi Selatan
+
+#EXTINF:-1  tvg-name="TVRI Sulawesi Barat" tvg-id="" tvg-logo="https://iili.io/JmF1PLb.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Sulawesi Barat",https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Sulawesi Barat
+
+#EXTINF:-1  tvg-name="TVRI Riau" tvg-id="" tvg-logo="https://iili.io/JmF1S7S.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Riau",https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Riau
+
+#EXTINF:-1  tvg-name="TVRI Papua Barat" tvg-id="" tvg-logo="https://iili.io/d9HAivV.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Papua Barat",https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Papua Barat
+
+#EXTINF:-1  tvg-name="TVRI Papua" tvg-id="" tvg-logo="https://iili.io/JmF1822.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Papua",https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Papua
+
+#EXTINF:-1  tvg-name="TVRI NTT" tvg-id="" tvg-logo="https://iili.io/JmF1gp9.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI NTT",https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTVLCOPT:http-user-agent=TVRI NTT
+
+#EXTINF:-1  tvg-name="TVRI NTB" tvg-id="" tvg-logo="https://iili.io/JmF1e14.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI NTB",https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTVLCOPT:http-user-agent=TVRI NTB
+
+#EXTINF:-1  tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" tvg-chno="INDONESIA" group-title="TVRI" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" :http-user-agent="TVRI Nasional",https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Nasional
+#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+#EXTINF:-1  tvg-name="TVRI Maluku" tvg-id="" tvg-logo="https://iili.io/JmF1wLG.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Maluku",https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Maluku
+
+#EXTINF:-1  tvg-name="TVRI Lampung" tvg-id="" tvg-logo="https://iili.io/JmF1krl.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Lampung",https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Lampung
+
+#EXTINF:-1  tvg-name="TVRI Kalimantan Timur" tvg-id="" tvg-logo="https://iili.io/JmF1jXs.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Kalimantan Timur",https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Kalimantan Timur
+
+#EXTINF:-1  tvg-name="TVRI Kalimantan Tengah" tvg-id="" tvg-logo="https://iili.io/JmF1hIn.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Kalimantan Tengah",https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Kalimantan Tengah
+
+#EXTINF:-1  tvg-name="TVRI Kalimantan Selatan" tvg-id="" tvg-logo="https://iili.io/JmF1WmX.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Kalimantan Selatan",https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Kalimantan Selatan
+
+#EXTINF:-1  tvg-name="TVRI Kalimantan Barat" tvg-id="" tvg-logo="https://iili.io/JmF1M7I.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Kalimantan Barat",https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Kalimantan Barat
+
+#EXTINF:-1  tvg-name="TVRI Jawa Timur" tvg-id="" tvg-logo="https://iili.io/JmF101R.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Jawa Timur",https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Jawa Timur
+
+#EXTINF:-1  tvg-name="TVRI Jawa Tengah" tvg-id="" tvg-logo="https://iili.io/JmF1GdN.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Jawa Tengah",https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Jawa Tengah
+
+#EXTINF:-1  tvg-name="TVRI Jawa Barat" tvg-id="" tvg-logo="https://iili.io/JmF1YXa.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Jawa Barat",https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Jawa Barat
+
+#EXTINF:-1  tvg-name="TVRI Jambi" tvg-id="" tvg-logo="https://iili.io/JmF1RmF.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Jambi",https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Jambi
+
+#EXTINF:-1  tvg-name="TVRI Jakarta" tvg-id="" tvg-logo="https://iili.io/JmF17zg.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Jakarta",https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Jakarta
+
+#EXTINF:-1  tvg-name="TVRI Gorontalo" tvg-id="" tvg-logo="https://iili.io/JmF1Ae1.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Gorontalo",https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Gorontalo
+
+#EXTINF:-1  tvg-name="TVRI Bengkulu" tvg-id="" tvg-logo="https://iili.io/JmF1TdB.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Bengkulu",https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Bengkulu
+
+#EXTINF:-1  tvg-name="TVRI Bangka Belitung" tvg-id="" tvg-logo="https://iili.io/JmF1zgV.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Bangka Belitung",https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Bangka Belitung
+
+#EXTINF:-1  tvg-name="TVRI Bali" tvg-id="" tvg-logo="https://iili.io/JmF1x0Q.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Bali",https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Bali
+
+#EXTINF:-1  tvg-name="TVRI Aceh" tvg-id="" tvg-logo="https://iili.io/JmF1BWb.png" tvg-chno="TVRI Daerah" group-title="TVRI" :http-referrer="" :http-user-agent="TVRI Aceh",https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTVLCOPT:http-user-agent=TVRI Aceh
+
