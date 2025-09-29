@@ -9,8 +9,22 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 #EXTINF:-1  tvg-name="K+" tvg-id="" tvg-logo="" tvg-chno="" group-title="Entertainment" :http-referrer="" :http-user-agent="",K+
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
-#EXTINF:-1  tvg-name="MAXSTREAM" tvg-id="" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" tvg-chno="" group-title="Entertainment" :http-referrer="" :http-user-agent="",MAXSTREAM
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTINF:-1  tvg-name="Movistar Clásicos" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/768px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png?20230726163731" group-title="Movies",Movistar Clásicos
+http://192.168.100.23:6878/ace/manifest.m3u8?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
+#EXTINF:-1  tvg-name="Movistar Acción" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/768px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png?20220526164348" group-title="Movies",Movistar Acción
+http://192.168.100.23:6878/ace/manifest.m3u8?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96
+#EXTINF:-1  tvg-name="Pluto TV Action" tvg-id="" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="Movies",Pluto TV Action
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-name="Pluto TV Crime Movies" tvg-id="" tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="Movies",Pluto TV Crime Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-name="Black Cinema" tvg-id="" tvg-logo="https://i.imgur.com/Zh1QGW9.png" group-title="Movies",Black Cinema
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-name="Paramount Movie Channel" tvg-id="" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="Movies",Paramount Movie Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-name="Pluto TV Westerns" tvg-id="" tvg-logo="https://i.imgur.com/79R7m0b.png" group-title="Movies",Pluto TV Westerns
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-name="Classic Movies" tvg-id="" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="Movies",Classic Movies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a
 #EXTINF:-1  tvg-name="tvN" tvg-id="" tvg-logo="" tvg-chno="" group-title="Entertainment" :http-referrer="" :http-user-agent="",tvN
 http://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
 #EXTINF:-1  tvg-name="AXN" tvg-id="" tvg-logo="" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",AXN
