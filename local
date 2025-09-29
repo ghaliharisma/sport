@@ -9,13 +9,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 #EXTINF:-1  tvg-name="K+" tvg-id="" tvg-logo="" tvg-chno="" group-title="Entertainment" :http-referrer="" :http-user-agent="",K+
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
-#EXTINF:-1  tvg-name="MAXSTREAM" tvg-id="" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" tvg-chno="" group-title="Entertainment" :http-referrer="" :http-user-agent="",MAXSTREAM[INDIHOME]
+#EXTINF:-1  tvg-name="MAXSTREAM" tvg-id="" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" tvg-chno="" group-title="Entertainment" :http-referrer="" :http-user-agent="",MAXSTREAM
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1  tvg-name="tvN" tvg-id="" tvg-logo="" tvg-chno="" group-title="Entertainment" :http-referrer="" :http-user-agent="",tvN
 http://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
 #EXTINF:-1  tvg-name="AXN" tvg-id="" tvg-logo="" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",AXN
 http://smart.cityq.xyz:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
-#EXTINF:-1  tvg-name="HITS NOW" tvg-id="" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",HITS NOW[INDIHOME]
+#EXTINF:-1  tvg-name="HITS NOW" tvg-id="" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",HITS NOW
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #EXTINF:-1  tvg-name="Rock Entertainment" tvg-id="RockEntertainment.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502062_tvchannels_v1.jpg" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",Rock Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -28,10 +28,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=MY CINEMA EUROPE HD DENS
 #EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
-#EXTINF:-1  tvg-name="MY CINEMA ASIA DENS" tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg" tvg-chno="Premium Movies" group-title="Movies" :http-referrer="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" :http-user-agent="MY CINEMA ASIA DENS",MY CINEMA ASIA DENS
-#EXTVLCOPT:http-user-agent=MY CINEMA ASIA DENS
-#EXTVLCOPT:http-referrer=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
 #EXTINF:-1  tvg-name="HBO Signature" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-chno="HBO" group-title="Movies" :http-referrer="" :http-user-agent="HBO Signature",HBO Signature
 #EXTVLCOPT:http-user-agent=HBO Signature
 https://dl.dropboxusercontent.com/scl/fi/4g8v7vxu9nqwz608szt77/HBO_SIG.m3u8?rlkey=0wpw3lr2cnqygy5f5rvsad8eq
@@ -44,10 +40,7 @@ https://dl.dropboxusercontent.com/scl/fi/in4900m4mvd6vocrthhaw/HBO_FAM.m3u8?rlke
 #EXTINF:-1  tvg-name="Cinemax" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" tvg-chno="HBO" group-title="Movies" :http-referrer="" :http-user-agent="Cinemax",Cinemax
 #EXTVLCOPT:http-user-agent=Cinemax
 https://dl.dropboxusercontent.com/scl/fi/j5865bib5wy1i72ppk2hx/cinemax.m3u8?rlkey=qkzwmgpv6lhf8ccuplf39c21n
-#EXTINF:-1  tvg-name="Etv Bioskop1" tvg-id="" tvg-logo="https://iili.io/3PewxHl.png" tvg-chno="Premium Movies" group-title="Movies" :http-referrer="" :http-user-agent="Etv Bioskop1",Etv Bioskop1
-#EXTVLCOPT:http-user-agent=Etv Bioskop1
-http://194.42.205.99:8070/live/F28312/cc1dc138/298526.ts
-#EXTINF:-1  tvg-name="tvN MOVIES" tvg-id="" tvg-logo="" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",tvN MOVIES
+#EXTINF:-1  tvg-name="tvN Movies" tvg-id="" tvg-logo="" tvg-chno="" group-title="Movies" :http-referrer="" :http-user-agent="",tvN Movies
 http://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
 #EXTINF:-1  tvg-name="TVOne" tvg-id="tvOne.my.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1",TVOne
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -67,13 +60,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=li
 #EXTINF:-1  tvg-name="GTV" tvg-id="GTV.id" tvg-logo="https://iili.io/JMp3joP.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://allcutv.rctiplus.id/gtv2023.m3u8
-#EXTINF:-1  tvg-name="RCTI" tvg-id="RCTI.id" tvg-logo="https://iili.io/JMp36xI.png" tvg-chno="" group-title="Nasional" :http-referrer="http://dens.tv/" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://dens.tv/
-https://allcutv.rctiplus.id/rcti2023.m3u8
-#EXTINF:-1  tvg-name="MNCTV" tvg-id="MNCTV.id" tvg-logo="https://iili.io/JMp3kla.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#EXTINF:-1  tvg-name="RCTI" tvg-id="RCTI.id" tvg-logo="https://iili.io/JMp36xI.png" tvg-chno="" group-title="Nasional" :http-referrer="https://www.rctiplus.com/" :http-user-agent="android-R+",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:-1  tvg-name="MNCTV" tvg-id="MNCTV.id" tvg-logo="https://iili.io/JMp3kla.png" tvg-chno="" group-title="Nasional" :http-referrer="https://www.rctiplus.com/" :http-user-agent="android-R+",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1  tvg-name="iNews" tvg-id="iNews.id" tvg-logo="https://iili.io/JV3x4Fs.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
