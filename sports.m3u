@@ -29,10 +29,10 @@ http://192.168.100.23:6878/ace/getstream?infohash=2c9a996c060d157ff63109c5b999d5
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115840
 #EXTINF:-1  tvg-name="Sky Sports F1 [DE]" tvg-id="427687" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 [DE]
 http://192.168.100.23:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2
-#EXTINF:-1  tvg-name="Sky Sport F1 [UK]" tvg-id="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.W3yn-UmSdGSXp419jgRp6gHaDL?rs=1&pid=ImgDetMain&o=7&rm=3" tvg-chno="Sports" group-title="Sports" :http-referrer="Player (Linux; Android 12)" :http-user-agent="Sky Sports F1",Sky Sport F1 [UK]
-#EXTVLCOPT:http-user-agent=Sky Sports F1
-#EXTVLCOPT:http-referrer=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://th.bing.com/th/id/R.edb9dc375b7ef20da3daf4f42ff743ea?rik=X7P4BL9%2bCerSIA&pid=ImgRaw&r=0" tvg-chno="F1 TV Pro" group-title="F1" :http-referrer="https://hakunamatata5.org/" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",F1 TV Pro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+#EXTVLCOPT:http-referrer=https://hakunamatata5.org/
+https://hakunamatata5.org:8088/hls/sky-f1.m3u8
 #EXTINF:-1  tvg-name="Sky Sport MotoGP [IT]" tvg-id="" tvg-logo="https://skymedia.it/wp-content/uploads/2023/03/skysportmotogp.png" tvg-chno="Sports" group-title="Sports" :http-referrer="Player (Linux; Android 12)" :http-user-agent="Sky Sport MotoGP",Sky Sport MotoGP [IT]
 #EXTVLCOPT:http-user-agent=Sky Sport MotoGP
 #EXTVLCOPT:http-referrer=Player (Linux; Android 12)
@@ -193,5 +193,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-name="Classic Movies" tvg-id="" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="Movies",Classic Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a
+
 
 
