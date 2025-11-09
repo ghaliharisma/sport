@@ -29,13 +29,7 @@ http://192.168.100.23:6878/ace/getstream?infohash=2c9a996c060d157ff63109c5b999d5
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115840
 #EXTINF:-1  tvg-name="Sky Sports F1 [DE]" tvg-id="427687" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Sky Sports F1 [DE]
 http://192.168.100.23:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2
-#EXTINF:-1  tvg-name="F1 TV Pro" tvg-id="" tvg-logo="https://th.bing.com/th/id/R.edb9dc375b7ef20da3daf4f42ff743ea?rik=X7P4BL9%2bCerSIA&pid=ImgRaw&r=0" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",F1 TV Pro
-http://192.168.100.23:6878/ace/getstream?infohash=56d3b49b80ff05d586fffa988abfdf51f7e644b7
-#EXTINF:-1  tvg-name="Sky Sport MotoGP [IT]" tvg-id="" tvg-logo="https://skymedia.it/wp-content/uploads/2023/03/skysportmotogp.png" tvg-chno="Sports" group-title="Sports" :http-referrer="Player (Linux; Android 12)" :http-user-agent="Sky Sport MotoGP",Sky Sport MotoGP [IT]
-#EXTVLCOPT:http-user-agent=Sky Sport MotoGP
-#EXTVLCOPT:http-referrer=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
-#EXTINF:-1  tvg-name="Sky Sports Arena [UK]" tvg-id="12358" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Sky Sports Arena [UK]
+#EXTINF:-1  tvg-name="Sky Sports + [UK]" tvg-id="12358" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Sky Sports Arena [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=37796ca47026bc190c7dc26827c0dfb6b61d137b
 #EXTINF:-1  tvg-name="Sky Sports Cricket [UK]" tvg-id="9293" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Sky Sports Cricket [UK]
 http://192.168.100.23:6878/ace/getstream?infohash=610eefafd6602c094e8e89c249a11d635cb6fe29
@@ -91,20 +85,18 @@ http://192.168.100.23:6878/ace/getstream?infohash=7f6ceda82b964c416983ab233787ce
 http://192.168.100.23:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373&pid=1058
 #EXTINF:-1  tvg-name="M. Liga de Campeones" tvg-id="406568" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021844540554_56.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",M. Liga de Campeones
 http://192.168.100.23:6878/ace/getstream?infohash=dfa66881b9613a77bd5479f6eedc5542504c3ef7&pid=1059
-#EXTINF:-1  tvg-name="Movistar LaLiga" tvg-id="406566" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021810335582_61.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Movistar LaLiga
-http://192.168.100.23:6878/ace/manifest.m3u8?id=107c3ce5a5d2527c9f06e4eab87477201791f231
-#EXTINF:-1  tvg-name="Movistar LaLiga 2" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Movistar LaLiga 2
-http://192.168.100.23:6878/ace/manifest.m3u8?id=911ad127726234b97658498a8b790fdd7516541d
-#EXTINF:-1  tvg-name="Movistar Liga de Campeones" tvg-id="" tvg-logo="https://boxtvmania.wordpress.com/wp-content/uploads/2018/07/movistar_liga_de_campeones.png?w=440&h=264" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Movistar Liga de Campeones
-http://192.168.100.23:6878/ace/manifest.m3u8?id=0f7842f8b6c26571e5a974407b61623e56e6a052
-#EXTINF:-1  tvg-name="Movistar Liga de Campeones 2" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mngo1u1726843207.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Movistar Liga de Campeones 2
-http://192.168.100.23:6878/ace/manifest.m3u8?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30
-#EXTINF:-1  tvg-name="Movistar Liga de Campeones 3" tvg-id="" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LIGA_DE_CAMPEONES_3_COLOR_NEGATIVO_176x122.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Movistar Liga de Campeones 3
-http://192.168.100.23:6878/ace/manifest.m3u8?id=2b5129adc57d43790634d796fe3468b9fd061259
-#EXTINF:-1  tvg-name="Fox Sports 506" tvg-id="446961" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=504388:206:CHANNEL:IMAGE:png&amp;w=400" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Fox Sports 506
-https://a1xs.vip/700006
-#EXTINF:-1  tvg-name="Fox Sports 507" tvg-id="FoxSportsMore.au" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=1704826:206:CHANNEL:IMAGE:png&amp;w=400" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Fox Sports 507
-https://a1xs.vip/700007
+#EXTINF:-1  tvg-name="USA Network" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",USA Network
+http://fl31.moveonjoy.com/USA_NETWORK/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-name="TSN 1" tvg-id="" tvg-logo="" tvg-chno="" group-title="" :http-referrer="" :http-user-agent="",TSN 1
+
+#EXTINF:-1  tvg-name="TSN 2" tvg-id="" tvg-logo="" tvg-chno="" group-title="" :http-referrer="" :http-user-agent="",TSN 2
+https://fl31.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-name="TSN 3" tvg-id="" tvg-logo="" tvg-chno="" group-title="" :http-referrer="" :http-user-agent="",TSN 3
+https://fl31.moveonjoy.com/TSN_3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-name="TSN 4" tvg-id="" tvg-logo="" tvg-chno="" group-title="" :http-referrer="" :http-user-agent="",TSN 4
+https://fl1.moveonjoy.com/TSN_4/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="TSN 5" tvg-id="" tvg-logo="" tvg-chno="" group-title="" :http-referrer="" :http-user-agent="",TSN 5
+https://fl31.moveonjoy.com/TSN_5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-name="Premier Sports 1" tvg-id="" tvg-logo="https://i.imgur.com/t5qCejI.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Premier Sports 1
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 #EXTINF:-1  tvg-name="Premier Sports 2" tvg-id="" tvg-logo="https://i.imgur.com/eMNWhDq.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Premier Sports 2
