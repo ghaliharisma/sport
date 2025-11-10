@@ -11,10 +11,6 @@ http://192.168.100.23:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467
 http://192.168.100.23:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d0459b594
 #EXTINF:-1  tvg-name="DAZN 4 [ES]" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/01/23/20250123023306247644_16.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",DAZN 4 [ES]
 http://192.168.100.23:6878/ace/getstream?infohash=c21a2524a8de3e1e5b126f2677a3e993d9aa07c4
-#EXTINF:-1  tvg-name="DAZN LaLiga [ES]" tvg-id="406588" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216022423418697_92.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",DAZN LaLiga [ES]
-http://192.168.100.23:6878/ace/manifest.m3u8?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
-#EXTINF:-1  tvg-name="DAZN LaLiga 2 [ES]" tvg-id="406530" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216020732500184_38.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",DAZN LaLiga 2 [ES]
-http://192.168.100.23:6878/ace/manifest.m3u8?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 #EXTINF:-1  tvg-name="DAZN 1 [PT]" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021430919637_94.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",DAZN 1 [PT]
 http://192.168.100.23:6878/ace/getstream?infohash=969e14989a98c62518a7640741dbf15d90212d1a
 #EXTINF:-1  tvg-name="DAZN 2 [PT]" tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021935231312_54.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",DAZN 2 [PT]
@@ -87,15 +83,13 @@ http://192.168.100.23:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197e
 http://192.168.100.23:6878/ace/getstream?infohash=dfa66881b9613a77bd5479f6eedc5542504c3ef7&pid=1059
 #EXTINF:-1  tvg-name="USA Network" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",USA Network
 http://fl31.moveonjoy.com/USA_NETWORK/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-name="TSN 1" tvg-id="" tvg-logo="" tvg-chno="" group-title="" :http-referrer="" :http-user-agent="",TSN 1
-
-#EXTINF:-1  tvg-name="TSN 2" tvg-id="" tvg-logo="" tvg-chno="" group-title="" :http-referrer="" :http-user-agent="",TSN 2
+#EXTINF:-1  tvg-name="TSN 2" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 2
 https://fl31.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-name="TSN 3" tvg-id="" tvg-logo="" tvg-chno="" group-title="" :http-referrer="" :http-user-agent="",TSN 3
+#EXTINF:-1  tvg-name="TSN 3" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 3
 https://fl31.moveonjoy.com/TSN_3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-name="TSN 4" tvg-id="" tvg-logo="" tvg-chno="" group-title="" :http-referrer="" :http-user-agent="",TSN 4
+#EXTINF:-1  tvg-name="TSN 4" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 4
 https://fl1.moveonjoy.com/TSN_4/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="TSN 5" tvg-id="" tvg-logo="" tvg-chno="" group-title="" :http-referrer="" :http-user-agent="",TSN 5
+#EXTINF:-1  tvg-name="TSN 5" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 5
 https://fl31.moveonjoy.com/TSN_5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-name="Premier Sports 1" tvg-id="" tvg-logo="https://i.imgur.com/t5qCejI.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Premier Sports 1
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
@@ -106,4 +100,4 @@ https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
 #EXTINF:-1  tvg-name="Premier Sports 4" tvg-id="" tvg-logo="https://i.imgur.com/XHBJ7UB.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Premier Sports 4
 https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1  tvg-name="Premier Sports 5" tvg-id="" tvg-logo="https://i.imgur.com/LkIe9gR.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Premier Sports 5
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8s
