@@ -100,4 +100,11 @@ https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
 #EXTINF:-1  tvg-name="Premier Sports 4" tvg-id="" tvg-logo="https://i.imgur.com/XHBJ7UB.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Premier Sports 4
 https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1  tvg-name="Premier Sports 5" tvg-id="" tvg-logo="https://i.imgur.com/LkIe9gR.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Premier Sports 5
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8s
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:-1  tvg-name="BBC Radio 1" tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logod.png?t=638985515360000000" tvg-chno="" group-title="Radio" :http-referrer="" :http-user-agent="",BBC Radio 1
+https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#EXTINF:-1  tvg-name="BBC Radio 2" tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s24940/images/logod.png?t=638985515370000000" tvg-chno="" group-title="Radio" :http-referrer="" :http-user-agent="",BBC Radio 2
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+#EXTINF:-1  tvg-name="Ardan" tvg-id="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24935d.png" tvg-chno="" group-title="Radio" :http-referrer="" :http-user-agent="",Ardan
+https://stream.ardangroup.fm:8443/ardan/_definst_/adaptive.smil/chunklist_w1913664513_b3500000.m3u8
+
