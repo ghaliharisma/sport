@@ -107,5 +107,5 @@ https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_rad
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
 #EXTINF:-1  tvg-name="Ardan" tvg-id="" tvg-logo="https://ardanradio.com/storage/logo/Logo%20Ardan.png" tvg-chno="" group-title="Radio" :http-referrer="" :http-user-agent="",Ardan
 https://stream.ardangroup.fm:8443/ardan/_definst_/adaptive.smil/chunklist_w1913664513_b3500000.m3u8
-
-
+#EXTINF:-1  tvg-name="B Radio" tvg-id="" tvg-logo="https://bradio956.fm/storage/logo/B-radioLogo%20(1).png" tvg-chno="" group-title="Radio" :http-referrer="" :http-user-agent="",B Radio
+https://n01.rcs.revma.com/9yp8b9pd6k3vv?rj-ttl=5&rj-tok=AAABmoCk6u0AmGWX0c1uydvm6Q
