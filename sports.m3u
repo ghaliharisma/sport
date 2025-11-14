@@ -81,15 +81,15 @@ http://192.168.100.23:6878/ace/getstream?infohash=7f6ceda82b964c416983ab233787ce
 http://192.168.100.23:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373&pid=1058
 #EXTINF:-1  tvg-name="M. Liga de Campeones" tvg-id="406568" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216021844540554_56.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",M. Liga de Campeones
 http://192.168.100.23:6878/ace/getstream?infohash=dfa66881b9613a77bd5479f6eedc5542504c3ef7&pid=1059
-#EXTINF:-1  tvg-name="USA Network" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",USA Network
+#EXTINF:-1  tvg-name="USA Network" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/500px-USA_Network_2020.svg.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",USA Network
 http://fl31.moveonjoy.com/USA_NETWORK/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-name="TSN 2" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 2
+#EXTINF:-1  tvg-name="TSN 2" tvg-id="" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn2-light.webp?auth=a8f34d27930e5a49cea2f5d040d219506e04ecf7f0b2565cb88d9f34519e4b62" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 2
 https://fl31.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-name="TSN 3" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 3
+#EXTINF:-1  tvg-name="TSN 3" tvg-id="" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn3-light.webp?auth=275fff42b0cddac780ecc375510f156d7c162ff51f4c1916ef60059fa2d34cbe" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 3
 https://fl31.moveonjoy.com/TSN_3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-name="TSN 4" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 4
+#EXTINF:-1  tvg-name="TSN 4" tvg-id="" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn4-light.webp?auth=5db3f99a39ce62ced0c6863291be2a47c127819877c6f6197737d885e2f75371" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 4
 https://fl1.moveonjoy.com/TSN_4/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="TSN 5" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 5
+#EXTINF:-1  tvg-name="TSN 5" tvg-id="" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn5-light.webp?auth=9b5d402d1a6d3e3c5cce57a5d316da112763d304ba9a02c0edd96862b8e77288" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",TSN 5
 https://fl31.moveonjoy.com/TSN_5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-name="Premier Sports 1" tvg-id="" tvg-logo="https://i.imgur.com/t5qCejI.png" tvg-chno="" group-title="Sports" :http-referrer="" :http-user-agent="",Premier Sports 1
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
@@ -109,3 +109,11 @@ https://as-hls-ww.live.cf.md.bbci.co.uk/pool_74208725/live/ww/bbc_radio_two/bbc_
 https://stream.ardangroup.fm:8443/ardan/_definst_/adaptive.smil/chunklist_w1913664513_b3500000.m3u8
 #EXTINF:-1  tvg-name="B Radio" tvg-id="" tvg-logo="https://bradio956.fm/storage/logo/B-radioLogo%20(1).png" tvg-chno="" group-title="Radio" :http-referrer="" :http-user-agent="",B Radio
 https://n01.rcs.revma.com/9yp8b9pd6k3vv?rj-ttl=5&rj-tok=AAABmoCk6u0AmGWX0c1uydvm6Q
+#EXTINF:-1  tvg-name="MGT Radio" tvg-id="" tvg-logo="http://mgtradio.gntr.net/wp-content/uploads/2025/09/MGT-WHITE-smol.png" tvg-chno="" group-title="Radio" :http-referrer="" :http-user-agent="",MGT Radio
+https://s1.gntr.net/listen/mgtradio/mgtradio
+#EXTINF:-1  tvg-name="Paramuda" tvg-id="" tvg-logo="https://paramudaradio.com/img/paramuda_logo.png" tvg-chno="" group-title="Radio" :http-referrer="" :http-user-agent="",Paramuda
+https://playradio.my.id:8088/live/livestream.m3u8?hls_ctx=2oul2p8c
+#EXTINF:-1  tvg-name="Prambors FM" tvg-id="" tvg-logo="https://s2.cloudmu.id/static/uploads/prambors/album_art.1753197782.jpg" tvg-chno="" group-title="Radio" :http-referrer="" :http-user-agent="",Prambors FM
+https://s2.cloudmu.id/listen/prambors/radio.aac
+#EXTINF:-1  tvg-name="Voks Radio" tvg-id="" tvg-logo="https://voksradio.com/wp-content/uploads/2023/12/Logo-Voks-Radio-v2.png" tvg-chno="" group-title="Radio" :http-referrer="" :http-user-agent="",Voks Radio
+https://a7.alhastream.com:4000/radio
