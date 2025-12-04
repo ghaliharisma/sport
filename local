@@ -63,8 +63,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=li
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1  tvg-name="CNN Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1  tvg-name="Trans TV" tvg-id="transtv" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/transtv.jpg?raw=true" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",Trans TV
-https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
+#EXTINF:-1  tvg-name="Trans TV" tvg-id="transtv" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" tvg-chno="" group-title="Nasional" :http-referrer="https://www.indihometv.com/" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",Trans TV
+https://cdn14jtedge.indihometv.com/dass/133/transtv/manifest_wuseetv.mpd?encp=wpq6Ezd4CGzJmtZA3lc91w&uid=&expp=1764836262
 #EXTINF:-1  tvg-name="Trans 7" tvg-id="Trans7.my.id" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/trans7.jpg?raw=true" tvg-chno="" group-title="Nasional" :http-referrer="" :http-user-agent="",Trans 7
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTINF:-1  tvg-name="RTV" tvg-id="RTV.id" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501653_tvchannels_v1.jpg" tvg-chno="" group-title="Nasional" :http-referrer="https://www.visionplus.id/" :http-user-agent="Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",RTV
